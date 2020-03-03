@@ -1,4 +1,4 @@
-package com.example.search.repository
+package com.example.search.repository.resource
 
 import com.example.search.model.Allergy
 import com.example.search.utils.JacksonMapper
