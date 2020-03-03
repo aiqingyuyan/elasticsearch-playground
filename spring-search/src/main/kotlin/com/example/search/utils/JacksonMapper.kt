@@ -1,5 +1,6 @@
 package com.example.search.utils
 
+import com.fasterxml.jackson.core.type.TypeReference
 import com.fasterxml.jackson.databind.ObjectMapper
 import com.fasterxml.jackson.module.kotlin.KotlinModule
 import org.springframework.http.converter.json.Jackson2ObjectMapperBuilder
@@ -14,4 +15,7 @@ class JacksonMapper {
 
 	fun <T: Any> deserializeJSONToObject(json: String, type: KClass<T>): T =
 		objMapper.readValue(json, type.java)
+
+	fun <T: Any> deserializeJSONToMap(json: String, typeReference: TypeReference<T>): T =
+		objMapper.readValue(json, typeReference)
 }
