@@ -7,7 +7,6 @@ import org.springframework.web.bind.annotation.GetMapping
 import org.springframework.web.bind.annotation.RequestParam
 import org.springframework.web.bind.annotation.RestController
 import info.debatty.java.stringsimilarity.JaroWinkler
-import org.apache.lucene.document.Document
 
 @RestController
 class Search(
@@ -18,17 +17,13 @@ class Search(
 	val jw = JaroWinkler()
 
 	@GetMapping("/accounts")
-	fun searchAccounts(@RequestParam(name = "first_name") firstNameQuery: String): List<Document> {
-		return this.accountsIndex.search("firstname", firstNameQuery)
+	fun searchAccounts(
+		@RequestParam field: String,
+		@RequestParam query: String,
+		@RequestParam(required = false) numOfDocs: String?
+	): List<Map<String, String>> {
+		return this.accountsIndex.search(field, query, numOfDocs?.toInt() ?: 10)
 	}
-
-//	@GetMapping("/med")
-//	fun searchMedicalConditions(@RequestParam(name = "description") description: String): List<MedicalCondition> =
-//		medicalConditionsResource
-//			.loadedMedicalConditions
-//			.filter {
-//				it.description.toLowerCase().contains(description.toLowerCase())
-//			}
 
 	@GetMapping("/allergies")
 	fun searchAllergies(@RequestParam(name = "description") description: String): List<Allergy> =

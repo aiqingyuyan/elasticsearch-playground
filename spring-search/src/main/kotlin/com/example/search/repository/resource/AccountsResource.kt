@@ -1,8 +1,9 @@
 package com.example.search.repository.resource
 
+import com.example.search.configuration.DispatcherContext
 import com.example.search.model.Account
-import com.example.search.repository.dispatcher_context.workersContext
 import com.example.search.utils.JacksonMapper
+import kotlinx.coroutines.ExperimentalCoroutinesApi
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.channelFlow
 import kotlinx.coroutines.launch
@@ -14,7 +15,8 @@ import java.util.*
 @Repository
 class AccountsResource(
   resourceLoader: ResourceLoader,
-  private val jacksonMapper: JacksonMapper
+  private val jacksonMapper: JacksonMapper,
+  private val dispatcherContext: DispatcherContext
 ) {
   private lateinit var scanner: Scanner
 
@@ -23,8 +25,9 @@ class AccountsResource(
     scanner = Scanner(file.inputStream)
   }
 
+  @ExperimentalCoroutinesApi
   fun produceAccounts(): Flow<Account> = channelFlow {
-    launch(workersContext) {
+    launch(dispatcherContext.workersContext) {
       while (scanner.hasNextLine()) {
         try {
           send(
