@@ -1,4 +1,5 @@
 import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
+import org.gradle.jvm.tasks.Jar
 
 plugins {
 	id("org.springframework.boot") version "2.2.4.RELEASE"
@@ -23,6 +24,11 @@ dependencies {
 	implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
 	implementation("org.jetbrains.kotlinx:kotlinx-coroutines-reactor")
 	implementation("com.fasterxml.jackson.core:jackson-databind")
+	implementation("org.apache.commons:commons-lang3:3.9")
+	implementation("commons-codec:commons-codec:1.14")
+	implementation("info.debatty:java-string-similarity:1.2.1")
+	implementation("org.apache.lucene:lucene-core:8.4.1")
+	implementation("org.apache.lucene:lucene-queryparser:8.4.1")
 	testImplementation("org.springframework.boot:spring-boot-starter-test") {
 		exclude(group = "org.junit.vintage", module = "junit-vintage-engine")
 	}
@@ -37,5 +43,22 @@ tasks.withType<KotlinCompile> {
 	kotlinOptions {
 		freeCompilerArgs = listOf("-Xjsr305=strict")
 		jvmTarget = "1.8"
+	}
+}
+
+val fatJar = task("fatJar", type = Jar::class) {
+	baseName = "${project.name}-fat"
+	manifest {
+		attributes["Implementation-Title"] = "Example Search Application"
+		attributes["Implementation-Version"] = version
+		attributes["Main-Class"] = "com.example.search.SearchApplication"
+	}
+	from(configurations.runtimeClasspath.get().map{ if (it.isDirectory) it else zipTree(it) })
+	with(tasks.jar.get() as CopySpec)
+}
+
+tasks {
+	"build" {
+		dependsOn(fatJar)
 	}
 }

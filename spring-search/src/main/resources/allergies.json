@@ -1,0 +1,2504 @@
+{"index":{"_id":"1"}}
+{"agid":"AGID","description":"DESCRIPTION1"}
+{"index":{"_id":"2"}}
+{"agid":"951","description":"1,2-HEXANEDIOL"}
+{"index":{"_id":"3"}}
+{"agid":"952","description":"1,2-OCTANEDIOL"}
+{"index":{"_id":"4"}}
+{"agid":"536","description":"1,3-BUTYLENE GLYCOL"}
+{"index":{"_id":"5"}}
+{"agid":"500","description":"4-AMINOQUINOLINES"}
+{"index":{"_id":"6"}}
+{"agid":"645","description":"4-ANISALDEHYDE"}
+{"index":{"_id":"7"}}
+{"agid":"900116","description":"5-ALFA REDUCTASE INHIBITOR, AZASTEROIDS"}
+{"index":{"_id":"8"}}
+{"agid":"900021","description":"8-AMINOQUINOLINES"}
+{"index":{"_id":"9"}}
+{"agid":"900100","description":"8-HYDROXYQUINOLINE"}
+{"index":{"_id":"10"}}
+{"agid":"561","description":"9-TETRADECENOIC ACID"}
+{"index":{"_id":"11"}}
+{"agid":"1070","description":"ABUTILON INDICUM"}
+{"index":{"_id":"12"}}
+{"agid":"743","description":"ACACIA (ACACIA SENEGAL, GUM ARABIC)"}
+{"index":{"_id":"13"}}
+{"agid":"1003","description":"ACAI"}
+{"index":{"_id":"14"}}
+{"agid":"147","description":"ACE INHIBITORS"}
+{"index":{"_id":"15"}}
+{"agid":"1152","description":"ACENEURAMIC ACID"}
+{"index":{"_id":"16"}}
+{"agid":"272","description":"ACEROLA (MALPIGHIA GLABRA)"}
+{"index":{"_id":"17"}}
+{"agid":"654","description":"ACESULFAME"}
+{"index":{"_id":"18"}}
+{"agid":"574","description":"ACETAMIDE MEA"}
+{"index":{"_id":"19"}}
+{"agid":"900013","description":"ACETAMINOPHEN"}
+{"index":{"_id":"20"}}
+{"agid":"900426","description":"ACETIC ACID"}
+{"index":{"_id":"21"}}
+{"agid":"887","description":"ACETYLATED MONOGLYCERIDE"}
+{"index":{"_id":"22"}}
+{"agid":"1056","description":"ACHYRANTHES ASPERA"}
+{"index":{"_id":"23"}}
+{"agid":"327","description":"ACID GREEN 50"}
+{"index":{"_id":"24"}}
+{"agid":"293","description":"ACRIDINE ANALOGUES"}
+{"index":{"_id":"25"}}
+{"agid":"730","description":"ACRYLIC ACID"}
+{"index":{"_id":"26"}}
+{"agid":"900046","description":"ACYCLOVIR ANALOGUES"}
+{"index":{"_id":"27"}}
+{"agid":"1213","description":"ADALIMUMAB ANALOGUES"}
+{"index":{"_id":"28"}}
+{"agid":"900224","description":"ADENOSINE ANALOGUES"}
+{"index":{"_id":"29"}}
+{"agid":"737","description":"ADENOVIRUS VACCINES"}
+{"index":{"_id":"30"}}
+{"agid":"1030","description":"ADHATODA VASICA"}
+{"index":{"_id":"31"}}
+{"agid":"787","description":"ADRENAL GLAND (BOVINE)"}
+{"index":{"_id":"32"}}
+{"agid":"1126","description":"AFLIBERCEPT ANALOGUES"}
+{"index":{"_id":"33"}}
+{"agid":"552","description":"AFRICAN GREEN MONKEY KIDNEY CELLS (VERO)"}
+{"index":{"_id":"34"}}
+{"agid":"900427","description":"AGAR"}
+{"index":{"_id":"35"}}
+{"agid":"1148","description":"AGARICUS MUSHROOM (AGARICUS BISPORUS)"}
+{"index":{"_id":"36"}}
+{"agid":"462","description":"ALANINE"}
+{"index":{"_id":"37"}}
+{"agid":"900200","description":"ALBUMIN PRODUCTS"}
+{"index":{"_id":"38"}}
+{"agid":"364","description":"ALDOSTERONE ANTAGONISTS"}
+{"index":{"_id":"39"}}
+{"agid":"93","description":"ALEMTUZUMAB"}
+{"index":{"_id":"40"}}
+{"agid":"106","description":"ALFALFA (MEDICAGO SATIVA)"}
+{"index":{"_id":"41"}}
+{"agid":"900358","description":"ALIPHATIC ALCOHOLS"}
+{"index":{"_id":"42"}}
+{"agid":"674","description":"ALKYL ACRYLATE CROSSPOLYMER"}
+{"index":{"_id":"43"}}
+{"agid":"188","description":"ALLANTOIN"}
+{"index":{"_id":"44"}}
+{"agid":"210","description":"ALLOPURINOL ANALOGUES"}
+{"index":{"_id":"45"}}
+{"agid":"33","description":"ALMOND"}
+{"index":{"_id":"46"}}
+{"agid":"395","description":"ALOE"}
+{"index":{"_id":"47"}}
+{"agid":"900260","description":"ALPHA 2 ADRENERGIC AGONIST"}
+{"index":{"_id":"48"}}
+{"agid":"1082","description":"ALPHA D-GALACTOSIDASE"}
+{"index":{"_id":"49"}}
+{"agid":"1083","description":"ALPHA GLUCOSIDASE"}
+{"index":{"_id":"50"}}
+{"agid":"998","description":"ALPHA-KETOGLUTARIC ACID"}
+{"index":{"_id":"51"}}
+{"agid":"80","description":"ALUMINUM CONTAINING PRODUCTS"}
+{"index":{"_id":"52"}}
+{"agid":"900269","description":"AMANTADINE ANALOGUES"}
+{"index":{"_id":"53"}}
+{"agid":"481","description":"AMINOGLYCOSIDES"}
+{"index":{"_id":"54"}}
+{"agid":"196","description":"AMINOLEVULINATE ANALOGUES"}
+{"index":{"_id":"55"}}
+{"agid":"112","description":"AMIODARONE ANALOGUES"}
+{"index":{"_id":"56"}}
+{"agid":"602","description":"AMMONIA WATER (AMMONIUM HYDROXIDE)"}
+{"index":{"_id":"57"}}
+{"agid":"900430","description":"AMMONIUM"}
+{"index":{"_id":"58"}}
+{"agid":"948","description":"AMMONIUM ACRYLOYLDIMETHYLTAURATE/VP COPOLYMER"}
+{"index":{"_id":"59"}}
+{"agid":"900429","description":"AMMONIUM CHLORIDE"}
+{"index":{"_id":"60"}}
+{"agid":"610","description":"AMMONIUM LAURYL SULFATE"}
+{"index":{"_id":"61"}}
+{"agid":"935","description":"AMPHENICOLS"}
+{"index":{"_id":"62"}}
+{"agid":"1200","description":"AMPHETAMINE ANALOGUES"}
+{"index":{"_id":"63"}}
+{"agid":"900573","description":"AMPRENAVIR ANALOGUES"}
+{"index":{"_id":"64"}}
+{"agid":"379","description":"AMYLASE"}
+{"index":{"_id":"65"}}
+{"agid":"900431","description":"ANAKINRA"}
+{"index":{"_id":"66"}}
+{"agid":"900109","description":"ANDROGENIC ANABOLIC STEROID"}
+{"index":{"_id":"67"}}
+{"agid":"14","description":"ANDROGRAPHIS PANICULATA"}
+{"index":{"_id":"68"}}
+{"agid":"250","description":"ANESTHETICS - AMIDE TYPE"}
+{"index":{"_id":"69"}}
+{"agid":"900026","description":"ANESTHETICS - ESTER TYPE- PARABENS"}
+{"index":{"_id":"70"}}
+{"agid":"656","description":"ANGELICA"}
+{"index":{"_id":"71"}}
+{"agid":"900230","description":"ANION EXCHANGE RESINS"}
+{"index":{"_id":"72"}}
+{"agid":"55","description":"ANISE"}
+{"index":{"_id":"73"}}
+{"agid":"473","description":"ANTHRACYCLINES"}
+{"index":{"_id":"74"}}
+{"agid":"926","description":"ANTHRAX VACCINE (BACILLUS ANTHRACIS SPORES)"}
+{"index":{"_id":"75"}}
+{"agid":"900074","description":"ANTIFUNGAL - IMIDAZOLE"}
+{"index":{"_id":"76"}}
+{"agid":"797","description":"ANTIHISTAMINES - ALKYLAMINE"}
+{"index":{"_id":"77"}}
+{"agid":"799","description":"ANTIHISTAMINES - ETHANOLAMINE"}
+{"index":{"_id":"78"}}
+{"agid":"798","description":"ANTIHISTAMINES - ETHYLENEDIAMINE"}
+{"index":{"_id":"79"}}
+{"agid":"801","description":"ANTIHISTAMINES - PIPERAZINE"}
+{"index":{"_id":"80"}}
+{"agid":"800","description":"ANTIHISTAMINES - PIPERIDINE"}
+{"index":{"_id":"81"}}
+{"agid":"516","description":"ANTISERA"}
+{"index":{"_id":"82"}}
+{"agid":"969","description":"ANTIVENOM, SIBERIAN PIT VIPER"}
+{"index":{"_id":"83"}}
+{"agid":"900408","description":"APPLE"}
+{"index":{"_id":"84"}}
+{"agid":"810","description":"APREPITANT ANALOGUES"}
+{"index":{"_id":"85"}}
+{"agid":"282","description":"APRICOT"}
+{"index":{"_id":"86"}}
+{"agid":"667","description":"ARABINOGALACTAN"}
+{"index":{"_id":"87"}}
+{"agid":"765","description":"ARACHIDONIC ACID (ARA)"}
+{"index":{"_id":"88"}}
+{"agid":"900158","description":"ARB-ANGIOTENSIN RECEPTOR ANTAGONIST"}
+{"index":{"_id":"89"}}
+{"agid":"1204","description":"ARGAN KERNAL OIL (ARGANINA SPINOSA)"}
+{"index":{"_id":"90"}}
+{"agid":"900227","description":"ARGININE"}
+{"index":{"_id":"91"}}
+{"agid":"1087","description":"ARGYREIA NERVOSA"}
+{"index":{"_id":"92"}}
+{"agid":"1182","description":"ARIPIPRAZOLE ANALOGUES"}
+{"index":{"_id":"93"}}
+{"agid":"900273","description":"ARSENIC ANALOGUES"}
+{"index":{"_id":"94"}}
+{"agid":"920","description":"ARTEMISININ ANALOGUES"}
+{"index":{"_id":"95"}}
+{"agid":"900246","description":"ARTICHOKE-CYNARA"}
+{"index":{"_id":"96"}}
+{"agid":"19","description":"ASCORBIC ACID (VITAMIN C)"}
+{"index":{"_id":"97"}}
+{"agid":"94","description":"ASHWAGANDHA"}
+{"index":{"_id":"98"}}
+{"agid":"900409","description":"ASIATIC DOGWOOD"}
+{"index":{"_id":"99"}}
+{"agid":"567","description":"ASPARAGINASE - E. COLI"}
+{"index":{"_id":"100"}}
+{"agid":"568","description":"ASPARAGINASE - ERWINIA"}
+{"index":{"_id":"101"}}
+{"agid":"569","description":"ASPARAGINASE - PEG, E. COLI"}
+{"index":{"_id":"102"}}
+{"agid":"453","description":"ASPARAGINE"}
+{"index":{"_id":"103"}}
+{"agid":"1062","description":"ASPARAGUS"}
+{"index":{"_id":"104"}}
+{"agid":"467","description":"ASPARTIC ACID"}
+{"index":{"_id":"105"}}
+{"agid":"937","description":"ASPEN (POPULUS TREMULOIDES)"}
+{"index":{"_id":"106"}}
+{"agid":"135","description":"ASTRAGALUS (ASTRAGALUS MEMBRANACEUS)"}
+{"index":{"_id":"107"}}
+{"agid":"1130","description":"AVARAM"}
+{"index":{"_id":"108"}}
+{"agid":"891","description":"AVOBENZONE(BUTYL METHOXYDIBENZOYLMETH)"}
+{"index":{"_id":"109"}}
+{"agid":"900528","description":"AVOCADO (LAURUS PERSEA)"}
+{"index":{"_id":"110"}}
+{"agid":"918","description":"AZACITIDINE ANALOGUES"}
+{"index":{"_id":"111"}}
+{"agid":"900073","description":"AZTREONAM"}
+{"index":{"_id":"112"}}
+{"agid":"927","description":"BACILLUS"}
+{"index":{"_id":"113"}}
+{"agid":"925","description":"BACILLUS CEREUS"}
+{"index":{"_id":"114"}}
+{"agid":"1153","description":"BACILLUS CLAUSII"}
+{"index":{"_id":"115"}}
+{"agid":"930","description":"BACILLUS COAGULANS"}
+{"index":{"_id":"116"}}
+{"agid":"929","description":"BACILLUS FIRMUS"}
+{"index":{"_id":"117"}}
+{"agid":"928","description":"BACILLUS SUBTILIS"}
+{"index":{"_id":"118"}}
+{"agid":"1136","description":"BAEL"}
+{"index":{"_id":"119"}}
+{"agid":"66","description":"BANABA"}
+{"index":{"_id":"120"}}
+{"agid":"900529","description":"BANANA"}
+{"index":{"_id":"121"}}
+{"agid":"1137","description":"BANYAN FIG"}
+{"index":{"_id":"122"}}
+{"agid":"131","description":"BARBERRY (BERBERIS VULGARIS)"}
+{"index":{"_id":"123"}}
+{"agid":"256","description":"BARBITURATES"}
+{"index":{"_id":"124"}}
+{"agid":"385","description":"BARLEY"}
+{"index":{"_id":"125"}}
+{"agid":"95","description":"BARRENWORT"}
+{"index":{"_id":"126"}}
+{"agid":"962","description":"BASIL"}
+{"index":{"_id":"127"}}
+{"agid":"733","description":"BCG (BACILLUS CALMETTE-GUERIN) VACCINES"}
+{"index":{"_id":"128"}}
+{"agid":"154","description":"BEARBERRY"}
+{"index":{"_id":"129"}}
+{"agid":"900208","description":"BEE POLLENS"}
+{"index":{"_id":"130"}}
+{"agid":"770","description":"BEESWAX"}
+{"index":{"_id":"131"}}
+{"agid":"916","description":"BEHENTRIMONIUM"}
+{"index":{"_id":"132"}}
+{"agid":"285","description":"BELLADONNA ALKALOIDS"}
+{"index":{"_id":"133"}}
+{"agid":"900251","description":"BENZIMIDAZOLES"}
+{"index":{"_id":"134"}}
+{"agid":"258","description":"BENZODIAZEPINES"}
+{"index":{"_id":"135"}}
+{"agid":"900432","description":"BENZOIC ACID"}
+{"index":{"_id":"136"}}
+{"agid":"777","description":"BENZOIN"}
+{"index":{"_id":"137"}}
+{"agid":"900586","description":"BERBERINE"}
+{"index":{"_id":"138"}}
+{"agid":"1067","description":"BERBERIS ARISTATA"}
+{"index":{"_id":"139"}}
+{"agid":"994","description":"BERGAMOT OIL"}
+{"index":{"_id":"140"}}
+{"agid":"294","description":"BETA-ADRENERGIC AGENTS"}
+{"index":{"_id":"141"}}
+{"agid":"298","description":"BETA-BLOCKERS (BETA-ADRENERGIC BLOCKING AGTS)"}
+{"index":{"_id":"142"}}
+{"agid":"1009","description":"BETA-GLUCAN"}
+{"index":{"_id":"143"}}
+{"agid":"900433","description":"BETAINE"}
+{"index":{"_id":"144"}}
+{"agid":"1212","description":"BEVACIZUMAB ANALOGUES"}
+{"index":{"_id":"145"}}
+{"agid":"1192","description":"BIFIDOBACTERIUM ADOLESCENTIS"}
+{"index":{"_id":"146"}}
+{"agid":"923","description":"BIFIDOBACTERIUM ANIMALIS (LACTIS)"}
+{"index":{"_id":"147"}}
+{"agid":"1209","description":"BIFIDOBACTERIUM ANIMALIS (LACTIS) BB-12"}
+{"index":{"_id":"148"}}
+{"agid":"1210","description":"BIFIDOBACTERIUM ANIMALIS (LACTIS) BI-04"}
+{"index":{"_id":"149"}}
+{"agid":"989","description":"BIFIDOBACTERIUM ANIMALIS (LACTIS) BI-07"}
+{"index":{"_id":"150"}}
+{"agid":"990","description":"BIFIDOBACTERIUM ANIMALIS (LACTIS) HN019"}
+{"index":{"_id":"151"}}
+{"agid":"924","description":"BIFIDOBACTERIUM BIFIDUM"}
+{"index":{"_id":"152"}}
+{"agid":"760","description":"BIFIDOBACTERIUM BREVE"}
+{"index":{"_id":"153"}}
+{"agid":"761","description":"BIFIDOBACTERIUM INFANTIS"}
+{"index":{"_id":"154"}}
+{"agid":"762","description":"BIFIDOBACTERIUM LONGUM"}
+{"index":{"_id":"155"}}
+{"agid":"900285","description":"BIGUANIDES"}
+{"index":{"_id":"156"}}
+{"agid":"900424","description":"BILBERRY"}
+{"index":{"_id":"157"}}
+{"agid":"900240","description":"BILE AND BILE SALTS"}
+{"index":{"_id":"158"}}
+{"agid":"525","description":"BIOFLAVONOIDS"}
+{"index":{"_id":"159"}}
+{"agid":"362","description":"BIOTIN"}
+{"index":{"_id":"160"}}
+{"agid":"1071","description":"BIOTITE (MICA) CALX"}
+{"index":{"_id":"161"}}
+{"agid":"900213","description":"BIPYRIDINE INOTROPIC AGENTS"}
+{"index":{"_id":"162"}}
+{"agid":"900537","description":"BISMUTH CONTAINING COMPOUNDS"}
+{"index":{"_id":"163"}}
+{"agid":"900434","description":"BISMUTH SUBCARBONATE"}
+{"index":{"_id":"164"}}
+{"agid":"900435","description":"BISMUTH SUBGALLATE"}
+{"index":{"_id":"165"}}
+{"agid":"900436","description":"BISMUTH SUBNITRATE"}
+{"index":{"_id":"166"}}
+{"agid":"900149","description":"BISPHOSPHONATES"}
+{"index":{"_id":"167"}}
+{"agid":"141","description":"BITTER MELON"}
+{"index":{"_id":"168"}}
+{"agid":"826","description":"BITTER-ORANGE"}
+{"index":{"_id":"169"}}
+{"agid":"70","description":"BLACK COHOSH"}
+{"index":{"_id":"170"}}
+{"agid":"875","description":"BLACK CURRANT"}
+{"index":{"_id":"171"}}
+{"agid":"307","description":"BLACK DYE"}
+{"index":{"_id":"172"}}
+{"agid":"607","description":"BLACK HAW"}
+{"index":{"_id":"173"}}
+{"agid":"1050","description":"BLACK PEPPER"}
+{"index":{"_id":"174"}}
+{"agid":"900530","description":"BLACK WALNUT"}
+{"index":{"_id":"175"}}
+{"agid":"306","description":"BLACKBERRY"}
+{"index":{"_id":"176"}}
+{"agid":"138","description":"BLADDERWRACK (FUCUS VESICULOSUS)"}
+{"index":{"_id":"177"}}
+{"agid":"845","description":"BLEACH (SODIUM HYPOCHLORITE)"}
+{"index":{"_id":"178"}}
+{"agid":"1094","description":"BLEPHARIS EDULIS"}
+{"index":{"_id":"179"}}
+{"agid":"649","description":"BLUE ALGAE (HASLEA OSTREARIA)"}
+{"index":{"_id":"180"}}
+{"agid":"148","description":"BLUE FLAG"}
+{"index":{"_id":"181"}}
+{"agid":"900209","description":"BLUE GREEN ALGAE"}
+{"index":{"_id":"182"}}
+{"agid":"741","description":"BLUEBERRY"}
+{"index":{"_id":"183"}}
+{"agid":"1026","description":"BOERHAVIA DIFFUSA (TAR VINE)"}
+{"index":{"_id":"184"}}
+{"agid":"24","description":"BOGBEAN (MENYANTHES)"}
+{"index":{"_id":"185"}}
+{"agid":"239","description":"BONESET (EUPATORIUM PERFOLIATUM)"}
+{"index":{"_id":"186"}}
+{"agid":"351","description":"BORAGE (BORAGO OFFICINALIS)"}
+{"index":{"_id":"187"}}
+{"agid":"679","description":"BORIC ACID"}
+{"index":{"_id":"188"}}
+{"agid":"344","description":"BORON"}
+{"index":{"_id":"189"}}
+{"agid":"900282","description":"BOTULINUM TOXIN"}
+{"index":{"_id":"190"}}
+{"agid":"1196","description":"BRAHMI (BACOPA MONNIERA)"}
+{"index":{"_id":"191"}}
+{"agid":"91","description":"BRAZILIAN GINSENG (SUMA ROOT)"}
+{"index":{"_id":"192"}}
+{"agid":"339","description":"BRILLIANT GREEN"}
+{"index":{"_id":"193"}}
+{"agid":"581","description":"BRINDALL BERRY (GARCINIA CAMBOGIA)"}
+{"index":{"_id":"194"}}
+{"agid":"840","description":"BROCCOLI"}
+{"index":{"_id":"195"}}
+{"agid":"1185","description":"BRUSSELS SPROUT"}
+{"index":{"_id":"196"}}
+{"agid":"134","description":"BUCHU"}
+{"index":{"_id":"197"}}
+{"agid":"220","description":"BUCKTHORN (FRANGULA, RHAMNUS SP.)"}
+{"index":{"_id":"198"}}
+{"agid":"831","description":"BUCKWHEAT"}
+{"index":{"_id":"199"}}
+{"agid":"221","description":"BURDOCK (ARTICUM LAPPA)"}
+{"index":{"_id":"200"}}
+{"agid":"391","description":"BURNETOSAXIFRAGE ROOT (PIMPINELL RADIX)"}
+{"index":{"_id":"201"}}
+{"agid":"690","description":"BUSULFAN"}
+{"index":{"_id":"202"}}
+{"agid":"577","description":"BUTENAFINE"}
+{"index":{"_id":"203"}}
+{"agid":"775","description":"BUTTERBUR (PETASITES HYBRIDUS)"}
+{"index":{"_id":"204"}}
+{"agid":"598","description":"BUTYLATED HYDROXYTOLUENE (BHT)"}
+{"index":{"_id":"205"}}
+{"agid":"263","description":"BUTYROPHENONES"}
+{"index":{"_id":"206"}}
+{"agid":"1046","description":"C.I. ACID BLUE 90"}
+{"index":{"_id":"207"}}
+{"agid":"919","description":"CABAZITAXEL"}
+{"index":{"_id":"208"}}
+{"agid":"65","description":"CABBAGE (BRASSICA OLERACEA)"}
+{"index":{"_id":"209"}}
+{"agid":"371","description":"CALAMUS (SWEET FLAG)"}
+{"index":{"_id":"210"}}
+{"agid":"359","description":"CALCITONIN"}
+{"index":{"_id":"211"}}
+{"agid":"192","description":"CALCIUM"}
+{"index":{"_id":"212"}}
+{"agid":"900437","description":"CALCIUM CARBONATE"}
+{"index":{"_id":"213"}}
+{"agid":"900387","description":"CALCIUM CHANNEL BLOCKING AGENT DILTIAZEM ANALOGUES"}
+{"index":{"_id":"214"}}
+{"agid":"900392","description":"CALCIUM CHANNEL BLOCKING AGENTS-DIHYDROPYRIDINES"}
+{"index":{"_id":"215"}}
+{"agid":"900385","description":"CALCIUM CHANNEL BLOCKING AGENTS-PHENYLALKYLAMINES"}
+{"index":{"_id":"216"}}
+{"agid":"900390","description":"CALCIUM CHANNEL BLOCKING-DIARYLAMINOPROPYLAMINES"}
+{"index":{"_id":"217"}}
+{"agid":"468","description":"CALCIUM CITRATE"}
+{"index":{"_id":"218"}}
+{"agid":"186","description":"CALCIUM PHOSPHATE"}
+{"index":{"_id":"219"}}
+{"agid":"657","description":"CALCIUM THREONATE"}
+{"index":{"_id":"220"}}
+{"agid":"383","description":"CALDIAMIDE"}
+{"index":{"_id":"221"}}
+{"agid":"900438","description":"CAMPHOR"}
+{"index":{"_id":"222"}}
+{"agid":"900338","description":"CAMPTOTHECIN ANALOGUES"}
+{"index":{"_id":"223"}}
+{"agid":"915","description":"CANDIDA ALBICANS"}
+{"index":{"_id":"224"}}
+{"agid":"808","description":"CANOLA OIL"}
+{"index":{"_id":"225"}}
+{"agid":"1020","description":"CAPPARIS SPINOSA (CAPERS)"}
+{"index":{"_id":"226"}}
+{"agid":"634","description":"CAPRYLIC/CAPRIC TRIGLYCERIDE"}
+{"index":{"_id":"227"}}
+{"agid":"900173","description":"CAPSICUM"}
+{"index":{"_id":"228"}}
+{"agid":"392","description":"CARAWAY"}
+{"index":{"_id":"229"}}
+{"agid":"881","description":"CARBACEPHEM"}
+{"index":{"_id":"230"}}
+{"agid":"281","description":"CARBAMATES"}
+{"index":{"_id":"231"}}
+{"agid":"490","description":"CARBAPENEMS"}
+{"index":{"_id":"232"}}
+{"agid":"900599","description":"CARBIMAZOLE ANALOGUES"}
+{"index":{"_id":"233"}}
+{"agid":"575","description":"CARBOMER"}
+{"index":{"_id":"234"}}
+{"agid":"593","description":"CARBOMER 940"}
+{"index":{"_id":"235"}}
+{"agid":"423","description":"CARBONIC ANHYDRASE INHIBITORS"}
+{"index":{"_id":"236"}}
+{"agid":"1024","description":"CARDAMOM (ELETTARIA CARDAMOMUM)"}
+{"index":{"_id":"237"}}
+{"agid":"6","description":"CARNITINE ANALOGUES"}
+{"index":{"_id":"238"}}
+{"agid":"673","description":"CARNOSINE (L-CARNOSINE)"}
+{"index":{"_id":"239"}}
+{"agid":"358","description":"CAROB"}
+{"index":{"_id":"240"}}
+{"agid":"182","description":"CARRAGEENAN"}
+{"index":{"_id":"241"}}
+{"agid":"390","description":"CARROT"}
+{"index":{"_id":"242"}}
+{"agid":"1060","description":"CASEARIA ESCULENTA"}
+{"index":{"_id":"243"}}
+{"agid":"1022","description":"CASSIA OCCIDENTALIS"}
+{"index":{"_id":"244"}}
+{"agid":"151","description":"CAT'S CLAW (UNCARIA TOMENTOSA)"}
+{"index":{"_id":"245"}}
+{"agid":"715","description":"CAT/FELINE PRODUCTS"}
+{"index":{"_id":"246"}}
+{"agid":"922","description":"CATECHU HERB"}
+{"index":{"_id":"247"}}
+{"agid":"834","description":"CATNIP"}
+{"index":{"_id":"248"}}
+{"agid":"1186","description":"CAULIFLOWER"}
+{"index":{"_id":"249"}}
+{"agid":"835","description":"CAYENNE PEPPER"}
+{"index":{"_id":"250"}}
+{"agid":"9","description":"CEDAR LEAF (THUJA)"}
+{"index":{"_id":"251"}}
+{"agid":"8","description":"CEDARWOOD (JUNIPERUS)"}
+{"index":{"_id":"252"}}
+{"agid":"1160","description":"CEFTAZIDIME"}
+{"index":{"_id":"253"}}
+{"agid":"1036","description":"CELASTRUS PANICULATUS"}
+{"index":{"_id":"254"}}
+{"agid":"133","description":"CELERY (APIUM GRAVEOLENS) (UMBELLIFERAE)"}
+{"index":{"_id":"255"}}
+{"agid":"389","description":"CELLULASE"}
+{"index":{"_id":"256"}}
+{"agid":"345","description":"CELLULOSE ANALOGUES"}
+{"index":{"_id":"257"}}
+{"agid":"477","description":"CEPHALOSPORINS"}
+{"index":{"_id":"258"}}
+{"agid":"615","description":"CERAMIDE"}
+{"index":{"_id":"259"}}
+{"agid":"899","description":"CERAMIDE 6"}
+{"index":{"_id":"260"}}
+{"agid":"809","description":"CETEARETH-12"}
+{"index":{"_id":"261"}}
+{"agid":"588","description":"CETEARETH-20"}
+{"index":{"_id":"262"}}
+{"agid":"668","description":"CETETH-10"}
+{"index":{"_id":"263"}}
+{"agid":"911","description":"CETETH-20"}
+{"index":{"_id":"264"}}
+{"agid":"860","description":"CETOMACROGOL"}
+{"index":{"_id":"265"}}
+{"agid":"589","description":"CETOSTEARYL ALCOHOL"}
+{"index":{"_id":"266"}}
+{"agid":"997","description":"CETOSTEARYL GLUCOSIDE"}
+{"index":{"_id":"267"}}
+{"agid":"884","description":"CETOSTEARYL ISONONANOATE"}
+{"index":{"_id":"268"}}
+{"agid":"595","description":"CETYL ALCOHOL"}
+{"index":{"_id":"269"}}
+{"agid":"941","description":"CETYL ESTERS"}
+{"index":{"_id":"270"}}
+{"agid":"492","description":"CETYL PALMITATE"}
+{"index":{"_id":"271"}}
+{"agid":"370","description":"CHAMOMILE FLOWER"}
+{"index":{"_id":"272"}}
+{"agid":"900585","description":"CHASTE TREE"}
+{"index":{"_id":"273"}}
+{"agid":"900150","description":"CHELATING AGENTS"}
+{"index":{"_id":"274"}}
+{"agid":"1170","description":"CHERRY"}
+{"index":{"_id":"275"}}
+{"agid":"1146","description":"CHERRY FLAVOR"}
+{"index":{"_id":"276"}}
+{"agid":"1113","description":"CHICKEN DERIVED"}
+{"index":{"_id":"277"}}
+{"agid":"1047","description":"CHICKWEED (STELLARIA MEDIA)"}
+{"index":{"_id":"278"}}
+{"agid":"961","description":"CHICORY"}
+{"index":{"_id":"279"}}
+{"agid":"802","description":"CHINESE BOXTHORN (LYCIUM)"}
+{"index":{"_id":"280"}}
+{"agid":"1201","description":"CHINESE RED PINE (PINUS MASSONIANA LAMB.)"}
+{"index":{"_id":"281"}}
+{"agid":"1144","description":"CHIR PINE"}
+{"index":{"_id":"282"}}
+{"agid":"878","description":"CHITOSAN"}
+{"index":{"_id":"283"}}
+{"agid":"257","description":"CHLORAL HYDRATE ANALOGUES"}
+{"index":{"_id":"284"}}
+{"agid":"386","description":"CHLORELLA ALGAE (GREEN, SPECIES UNSPEC.)"}
+{"index":{"_id":"285"}}
+{"agid":"900545","description":"CHLOROBUTANOL ANALOGUES"}
+{"index":{"_id":"286"}}
+{"agid":"900439","description":"CHLOROFORM"}
+{"index":{"_id":"287"}}
+{"agid":"388","description":"CHLOROPHYLLIN (CHLOROPHYLL) ANALOGUES"}
+{"index":{"_id":"288"}}
+{"agid":"900533","description":"CHOLESTEROL ANALOGUES"}
+{"index":{"_id":"289"}}
+{"agid":"369","description":"CHOLINE ANALOGUES"}
+{"index":{"_id":"290"}}
+{"agid":"900261","description":"CHOLINESTERASE INHIBITOR(CARBAMATE)"}
+{"index":{"_id":"291"}}
+{"agid":"900538","description":"CHONDROITIN ANALOGUES"}
+{"index":{"_id":"292"}}
+{"agid":"900498","description":"CHROMIUM AND DERIVATIVES"}
+{"index":{"_id":"293"}}
+{"agid":"324","description":"CHROMIUM OXIDE GREEN"}
+{"index":{"_id":"294"}}
+{"agid":"975","description":"CHRYSANTHEMUM DENDRANTHEMA"}
+{"index":{"_id":"295"}}
+{"agid":"729","description":"CHYMOTRYPSIN"}
+{"index":{"_id":"296"}}
+{"agid":"1073","description":"CINNABAR"}
+{"index":{"_id":"297"}}
+{"agid":"900503","description":"CINNAMATE ANALOGUES"}
+{"index":{"_id":"298"}}
+{"agid":"1108","description":"CINNAMIC ACIDS"}
+{"index":{"_id":"299"}}
+{"agid":"1097","description":"CINNAMOMUM TAMALA"}
+{"index":{"_id":"300"}}
+{"agid":"3","description":"CINNAMON ANALOGUES"}
+{"index":{"_id":"301"}}
+{"agid":"900422","description":"CITALOPRAM ANALOGUES"}
+{"index":{"_id":"302"}}
+{"agid":"900440","description":"CITRIC ACID"}
+{"index":{"_id":"303"}}
+{"agid":"471","description":"CITRULLINE (L-CITRULLINE)"}
+{"index":{"_id":"304"}}
+{"agid":"900520","description":"CITRUS AND DERIVATIVES"}
+{"index":{"_id":"305"}}
+{"agid":"940","description":"CITRUS BERRY FLAVOR"}
+{"index":{"_id":"306"}}
+{"agid":"194","description":"CLEMIZOLE"}
+{"index":{"_id":"307"}}
+{"agid":"248","description":"CLIVERS (GALIUM APARINE)"}
+{"index":{"_id":"308"}}
+{"agid":"900291","description":"CLOPIDOGREL"}
+{"index":{"_id":"309"}}
+{"agid":"719","description":"CLOVE"}
+{"index":{"_id":"310"}}
+{"agid":"1157","description":"CLOWN'S MUSTARD PLANT (IBERIS AMARA)"}
+{"index":{"_id":"311"}}
+{"agid":"900535","description":"COBALAMIN AND DERIVATIVES"}
+{"index":{"_id":"312"}}
+{"agid":"618","description":"COBALT"}
+{"index":{"_id":"313"}}
+{"agid":"499","description":"COCAMIDE ANALOGUES"}
+{"index":{"_id":"314"}}
+{"agid":"680","description":"COCAMIDOPROPYL ANALOGUES"}
+{"index":{"_id":"315"}}
+{"agid":"1017","description":"COCAMIDOPROPYLAMINE OXIDE"}
+{"index":{"_id":"316"}}
+{"agid":"1091","description":"COCO-GLYCERIDES"}
+{"index":{"_id":"317"}}
+{"agid":"405","description":"COCOA"}
+{"index":{"_id":"318"}}
+{"agid":"501","description":"COCOAMPHOCARBOXYGLYCINATE, DISODIUM"}
+{"index":{"_id":"319"}}
+{"agid":"23","description":"COCONUT"}
+{"index":{"_id":"320"}}
+{"agid":"861","description":"COFFEE"}
+{"index":{"_id":"321"}}
+{"agid":"900366","description":"COLCHICINE ANALOGUES"}
+{"index":{"_id":"322"}}
+{"agid":"396","description":"COLEUS (COLEUS FORSKHOLII)"}
+{"index":{"_id":"323"}}
+{"agid":"900232","description":"COLISTIN"}
+{"index":{"_id":"324"}}
+{"agid":"900147","description":"COLONY STIMULATING FACTORS"}
+{"index":{"_id":"325"}}
+{"agid":"372","description":"COMFREY (SYMPHYTUM OFFICINALE)"}
+{"index":{"_id":"326"}}
+{"agid":"449","description":"COPPER"}
+{"index":{"_id":"327"}}
+{"agid":"1149","description":"CORDYCEPS"}
+{"index":{"_id":"328"}}
+{"agid":"900568","description":"CORIANDER"}
+{"index":{"_id":"329"}}
+{"agid":"456","description":"CORTEX EUCOMMIAE"}
+{"index":{"_id":"330"}}
+{"agid":"360","description":"CORTICOSTEROIDS (GLUCOCORTICOIDS)"}
+{"index":{"_id":"331"}}
+{"agid":"900233","description":"CORTICOTROPIN"}
+{"index":{"_id":"332"}}
+{"agid":"1039","description":"COTTONSEED"}
+{"index":{"_id":"333"}}
+{"agid":"384","description":"COUCH GRASS (TRITICUM REPENS)"}
+{"index":{"_id":"334"}}
+{"agid":"338","description":"COUMARIN ANALOGUES"}
+{"index":{"_id":"335"}}
+{"agid":"900579","description":"CRAMP BARK"}
+{"index":{"_id":"336"}}
+{"agid":"68","description":"CRANBERRY"}
+{"index":{"_id":"337"}}
+{"agid":"900515","description":"CRESOL"}
+{"index":{"_id":"338"}}
+{"agid":"647","description":"CUCUMBER (CUCUMIS SATIVUS)"}
+{"index":{"_id":"339"}}
+{"agid":"1135","description":"CUMIN"}
+{"index":{"_id":"340"}}
+{"agid":"900011","description":"CYCLOBENZAPRINE"}
+{"index":{"_id":"341"}}
+{"agid":"629","description":"CYCLOPENTASILOXANE"}
+{"index":{"_id":"342"}}
+{"agid":"1118","description":"CYCLOPENTOLATE ANALOGUES"}
+{"index":{"_id":"343"}}
+{"agid":"1055","description":"CYPERUS SCARIOSUS"}
+{"index":{"_id":"344"}}
+{"agid":"276","description":"CYPRESS"}
+{"index":{"_id":"345"}}
+{"agid":"900509","description":"CYSTEAMINE"}
+{"index":{"_id":"346"}}
+{"agid":"900135","description":"CYSTEINE DERIVATIVES"}
+{"index":{"_id":"347"}}
+{"agid":"465","description":"CYSTINE(L-CYSTINE)"}
+{"index":{"_id":"348"}}
+{"agid":"874","description":"CYTARABINE ANALOGUES"}
+{"index":{"_id":"349"}}
+{"agid":"333","description":"D AND C GREEN NO.5"}
+{"index":{"_id":"350"}}
+{"agid":"336","description":"D AND C GREEN NO.6"}
+{"index":{"_id":"351"}}
+{"agid":"785","description":"D AND C ORANGE NO. 4"}
+{"index":{"_id":"352"}}
+{"agid":"832","description":"D AND C VIOLET NO.2(ALIZUROL PURPLE)"}
+{"index":{"_id":"353"}}
+{"agid":"1151","description":"D-MANNOSE"}
+{"index":{"_id":"354"}}
+{"agid":"1150","description":"D-XYLOSE"}
+{"index":{"_id":"355"}}
+{"agid":"956","description":"DAIDZEIN"}
+{"index":{"_id":"356"}}
+{"agid":"96","description":"DAMIANA"}
+{"index":{"_id":"357"}}
+{"agid":"236","description":"DANDELION (TARAXACUM OFFICINALE)"}
+{"index":{"_id":"358"}}
+{"agid":"1122","description":"DANSHEN (SALVIA MILTIORRHIZA)"}
+{"index":{"_id":"359"}}
+{"agid":"1102","description":"DASHAMOOLA"}
+{"index":{"_id":"360"}}
+{"agid":"279","description":"DATES"}
+{"index":{"_id":"361"}}
+{"agid":"910","description":"DEA-CETYL PHOSPHATE"}
+{"index":{"_id":"362"}}
+{"agid":"906","description":"DEANOL(2-DIMETHYLAMINOETHANOL, DMAE)"}
+{"index":{"_id":"363"}}
+{"agid":"565","description":"DECANOIC ACID (CAPRIC ACID)"}
+{"index":{"_id":"364"}}
+{"agid":"609","description":"DECYL GLUCOSIDE"}
+{"index":{"_id":"365"}}
+{"agid":"1002","description":"DEHYDROACETIC ACID"}
+{"index":{"_id":"366"}}
+{"agid":"1139","description":"DEODAR CEDAR"}
+{"index":{"_id":"367"}}
+{"agid":"224","description":"DEVIL'S CLAW (HARPAGOPHYTUM PROCUMBENS)"}
+{"index":{"_id":"368"}}
+{"agid":"421","description":"DEXRAZOXANE ANALOGUES"}
+{"index":{"_id":"369"}}
+{"agid":"601","description":"DIAZOLIDINYL UREA"}
+{"index":{"_id":"370"}}
+{"agid":"823","description":"DICAPRYLYL ETHER"}
+{"index":{"_id":"371"}}
+{"agid":"303","description":"DICHLOROBENZYL ALCOHOL"}
+{"index":{"_id":"372"}}
+{"agid":"1052","description":"DIDYMOCARPUS PEDICELLATA"}
+{"index":{"_id":"373"}}
+{"agid":"591","description":"DIETHYLAMINOETHYL STEARATE"}
+{"index":{"_id":"374"}}
+{"agid":"487","description":"DIETHYLENE GLYCOL"}
+{"index":{"_id":"375"}}
+{"agid":"900128","description":"DIGITALIS GLYCOSIDES"}
+{"index":{"_id":"376"}}
+{"agid":"1019","description":"DILL OIL (ANETHUM GRAVEOLENS)"}
+{"index":{"_id":"377"}}
+{"agid":"304","description":"DIMERCAPROL ANALOGUES"}
+{"index":{"_id":"378"}}
+{"agid":"42","description":"DIMETHICONE ANALOGUES"}
+{"index":{"_id":"379"}}
+{"agid":"824","description":"DIMETHICONOL"}
+{"index":{"_id":"380"}}
+{"agid":"945","description":"DIOSMIN"}
+{"index":{"_id":"381"}}
+{"agid":"670","description":"DIPENTAERYTHRITYL TETRAHYDROXYSTEARATE"}
+{"index":{"_id":"382"}}
+{"agid":"495","description":"DIPEPTIDE-1"}
+{"index":{"_id":"383"}}
+{"agid":"1214","description":"DIPEPTIDYL PEPTIDASE 4 (HUMAN)"}
+{"index":{"_id":"384"}}
+{"agid":"900159","description":"DIPHTHERIA TOXIN PREPARATIONS"}
+{"index":{"_id":"385"}}
+{"agid":"971","description":"DISODIUM LAURETH SULFOSUCCINATE"}
+{"index":{"_id":"386"}}
+{"agid":"947","description":"DISODIUM LAUROAMPHODIACETATE"}
+{"index":{"_id":"387"}}
+{"agid":"973","description":"DISODIUM RICINOLEAMIDO MEA-SULFOSUCCINATE"}
+{"index":{"_id":"388"}}
+{"agid":"590","description":"DMDM HYDANTOIN"}
+{"index":{"_id":"389"}}
+{"agid":"759","description":"DOCETAXEL"}
+{"index":{"_id":"390"}}
+{"agid":"701","description":"DOCOSAHEXANOIC ACID (DHA)"}
+{"index":{"_id":"391"}}
+{"agid":"101","description":"DONG QUAI (ANGELICA SINENSIS)"}
+{"index":{"_id":"392"}}
+{"agid":"774","description":"DROSERA"}
+{"index":{"_id":"393"}}
+{"agid":"129","description":"DUNALIELLA SALINA ALGAE"}
+{"index":{"_id":"394"}}
+{"agid":"900170","description":"ECHINACEA"}
+{"index":{"_id":"395"}}
+{"agid":"559","description":"ECHINOCANDIN ANALOGUES"}
+{"index":{"_id":"396"}}
+{"agid":"1164","description":"EFINACONAZOLE"}
+{"index":{"_id":"397"}}
+{"agid":"889","description":"ELASTIN"}
+{"index":{"_id":"398"}}
+{"agid":"237","description":"ELDER (SAMBUCUS NIGRA, EUROPEAN)"}
+{"index":{"_id":"399"}}
+{"agid":"1034","description":"EMBELIA RIBES"}
+{"index":{"_id":"400"}}
+{"agid":"1021","description":"EMBLICA OFFICINALIS (INDIAN GOOSEBERRY)"}
+{"index":{"_id":"401"}}
+{"agid":"870","description":"EMU OIL"}
+{"index":{"_id":"402"}}
+{"agid":"877","description":"EMULSIFYING WAX"}
+{"index":{"_id":"403"}}
+{"agid":"1090","description":"ENOXOLONE"}
+{"index":{"_id":"404"}}
+{"agid":"1043","description":"EPHEDRINE ANALOGUES"}
+{"index":{"_id":"405"}}
+{"agid":"1112","description":"EPIGALLOCATECHIN GALLATE"}
+{"index":{"_id":"406"}}
+{"agid":"873","description":"EPILOBIUM ANGUSTIFOLIUM"}
+{"index":{"_id":"407"}}
+{"agid":"900195","description":"ERGOT ALKALOIDS"}
+{"index":{"_id":"408"}}
+{"agid":"900274","description":"ERYTHROPOIETIN ANALOGUES"}
+{"index":{"_id":"409"}}
+{"agid":"82","description":"ESCHERICHIA COLI (E. COLI)"}
+{"index":{"_id":"410"}}
+{"agid":"900142","description":"ESTROGENS"}
+{"index":{"_id":"411"}}
+{"agid":"1206","description":"ETANERCEPT ANALOGUES AND BIOSIMILARS"}
+{"index":{"_id":"412"}}
+{"agid":"900334","description":"ETHANOLAMINE"}
+{"index":{"_id":"413"}}
+{"agid":"900441","description":"ETHER"}
+{"index":{"_id":"414"}}
+{"agid":"1177","description":"ETHIODIZED OIL"}
+{"index":{"_id":"415"}}
+{"agid":"900076","description":"ETHYLENIMINE/METHYLMELAMINES"}
+{"index":{"_id":"416"}}
+{"agid":"883","description":"ETHYLHEXYL ISONONANOATE"}
+{"index":{"_id":"417"}}
+{"agid":"900540","description":"EUCALYPTUS CONTAINING PRODUCTS"}
+{"index":{"_id":"418"}}
+{"agid":"900442","description":"EVANS BLUE"}
+{"index":{"_id":"419"}}
+{"agid":"353","description":"EVENING PRIMROSE (OENOTHERA BIENNIS)"}
+{"index":{"_id":"420"}}
+{"agid":"722","description":"FACTOR II (PROTHROMBIN)"}
+{"index":{"_id":"421"}}
+{"agid":"900378","description":"FACTOR IX PREPARATIONS"}
+{"index":{"_id":"422"}}
+{"agid":"900379","description":"FACTOR VII"}
+{"index":{"_id":"423"}}
+{"agid":"723","description":"FACTOR X"}
+{"index":{"_id":"424"}}
+{"agid":"981","description":"FAD (FLAVIN ADENINE DINUCLEOTIDE)"}
+{"index":{"_id":"425"}}
+{"agid":"1134","description":"FALSE DAISY"}
+{"index":{"_id":"426"}}
+{"agid":"839","description":"FARNESOL"}
+{"index":{"_id":"427"}}
+{"agid":"308","description":"FD AND C BLACK NO.9924"}
+{"index":{"_id":"428"}}
+{"agid":"829","description":"FD AND C BROWN LAKE BLEND"}
+{"index":{"_id":"429"}}
+{"agid":"328","description":"FD AND C GREEN NO.3"}
+{"index":{"_id":"430"}}
+{"agid":"329","description":"FD AND C GREEN NO.32"}
+{"index":{"_id":"431"}}
+{"agid":"330","description":"FD AND C GREEN NO.5"}
+{"index":{"_id":"432"}}
+{"agid":"331","description":"FD AND C GREEN NO.6"}
+{"index":{"_id":"433"}}
+{"agid":"132","description":"FENNEL (FOENICULUM VULGARE)"}
+{"index":{"_id":"434"}}
+{"agid":"146","description":"FENUGREEK"}
+{"index":{"_id":"435"}}
+{"agid":"1110","description":"FERRIC OXIDE (IRON OXIDE)"}
+{"index":{"_id":"436"}}
+{"agid":"900169","description":"FEVERFEW"}
+{"index":{"_id":"437"}}
+{"agid":"1109","description":"FIBER"}
+{"index":{"_id":"438"}}
+{"agid":"900103","description":"FIBRATE ANTI-LIPIDEMICS"}
+{"index":{"_id":"439"}}
+{"agid":"1121","description":"FIGWORT (SCROPHULARIA NODOSA)"}
+{"index":{"_id":"440"}}
+{"agid":"867","description":"FISETIN"}
+{"index":{"_id":"441"}}
+{"agid":"900525","description":"FISH CONTAINING PRODUCTS"}
+{"index":{"_id":"442"}}
+{"agid":"541","description":"FLAXSEED (LINSEED)"}
+{"index":{"_id":"443"}}
+{"agid":"557","description":"FLOSEQUINAN"}
+{"index":{"_id":"444"}}
+{"agid":"684","description":"FLUCONAZOLE"}
+{"index":{"_id":"445"}}
+{"agid":"900369","description":"FLUORIDE PREPARATIONS"}
+{"index":{"_id":"446"}}
+{"agid":"455","description":"FO-TI"}
+{"index":{"_id":"447"}}
+{"agid":"203","description":"FOLIC ACID CONTAINING DRUGS"}
+{"index":{"_id":"448"}}
+{"agid":"932","description":"FOLLITROPINS"}
+{"index":{"_id":"449"}}
+{"agid":"52","description":"FORMALDEHYDE ANALOGUES"}
+{"index":{"_id":"450"}}
+{"agid":"957","description":"FORMONONETIN"}
+{"index":{"_id":"451"}}
+{"agid":"711","description":"FORMOTEROL ANALOGUES"}
+{"index":{"_id":"452"}}
+{"agid":"394","description":"FORSYTHIA"}
+{"index":{"_id":"453"}}
+{"agid":"979","description":"FRUCTOOLIGOSACCHARIDES (FOS)"}
+{"index":{"_id":"454"}}
+{"agid":"900166","description":"GABAPENTIN"}
+{"index":{"_id":"455"}}
+{"agid":"900059","description":"GADOLINIUM-CONTAINING CONTRAST MEDIA"}
+{"index":{"_id":"456"}}
+{"agid":"195","description":"GALACTOSE ANALOGUES"}
+{"index":{"_id":"457"}}
+{"agid":"1169","description":"GALACTOSE-ALPHA-1,3-GALACTOSE (ALPHA-GAL)"}
+{"index":{"_id":"458"}}
+{"agid":"255","description":"GALANGAL (ALPINIA OFFICINARUM)"}
+{"index":{"_id":"459"}}
+{"agid":"411","description":"GAMMA-AMINOBUTYRIC ACID"}
+{"index":{"_id":"460"}}
+{"agid":"900171","description":"GARLIC"}
+{"index":{"_id":"461"}}
+{"agid":"955","description":"GENISTEIN"}
+{"index":{"_id":"462"}}
+{"agid":"900244","description":"GENTIAN"}
+{"index":{"_id":"463"}}
+{"agid":"222","description":"GERANIUM (GERANIUM MACULATUM,CRANESBILL)"}
+{"index":{"_id":"464"}}
+{"agid":"150","description":"GIANT GOLDENROD"}
+{"index":{"_id":"465"}}
+{"agid":"900418","description":"GINGER"}
+{"index":{"_id":"466"}}
+{"agid":"900172","description":"GINKGO BILOBA"}
+{"index":{"_id":"467"}}
+{"agid":"900174","description":"GINSENG"}
+{"index":{"_id":"468"}}
+{"agid":"1074","description":"GLIPTINS (DPP-4 INHIBITORS)"}
+{"index":{"_id":"469"}}
+{"agid":"908","description":"GLUCANASE-BETA"}
+{"index":{"_id":"470"}}
+{"agid":"988","description":"GLUCOAMYLASE"}
+{"index":{"_id":"471"}}
+{"agid":"978","description":"GLUCOMANNAN"}
+{"index":{"_id":"472"}}
+{"agid":"939","description":"GLUCONOLACTONE (GLUCONO-DELTA-LACTONE)"}
+{"index":{"_id":"473"}}
+{"agid":"900539","description":"GLUCOSAMINE ANALOGUES"}
+{"index":{"_id":"474"}}
+{"agid":"1099","description":"GLUCOSE OXIDASE"}
+{"index":{"_id":"475"}}
+{"agid":"376","description":"GLUTAMIC ACID"}
+{"index":{"_id":"476"}}
+{"agid":"227","description":"GLUTAMINE (L-GLUTAMINE)"}
+{"index":{"_id":"477"}}
+{"agid":"523","description":"GLUTATHIONE (L-GLUTATHIONE)"}
+{"index":{"_id":"478"}}
+{"agid":"900322","description":"GLUTETHIMIDE/AMINOGLUTETHIMIDE"}
+{"index":{"_id":"479"}}
+{"agid":"898","description":"GLYCERETH-12"}
+{"index":{"_id":"480"}}
+{"agid":"900443","description":"GLYCERIN"}
+{"index":{"_id":"481"}}
+{"agid":"960","description":"GLYCEROPHOSPHORIC ACID"}
+{"index":{"_id":"482"}}
+{"agid":"843","description":"GLYCERYL LANOLATE"}
+{"index":{"_id":"483"}}
+{"agid":"597","description":"GLYCERYL MONOSTEARATE"}
+{"index":{"_id":"484"}}
+{"agid":"36","description":"GLYCERYL OLEATE"}
+{"index":{"_id":"485"}}
+{"agid":"630","description":"GLYCERYL STEARATE SE"}
+{"index":{"_id":"486"}}
+{"agid":"900444","description":"GLYCINE"}
+{"index":{"_id":"487"}}
+{"agid":"1006","description":"GLYCOLIC ACID"}
+{"index":{"_id":"488"}}
+{"agid":"1129","description":"GLYCOMACROPEPTIDE"}
+{"index":{"_id":"489"}}
+{"agid":"1066","description":"GMELINA ARBOREA"}
+{"index":{"_id":"490"}}
+{"agid":"931","description":"GNRH ANTAGONISTS"}
+{"index":{"_id":"491"}}
+{"agid":"149","description":"GOAT'S RUE (GALEGA OFFICINALIS)"}
+{"index":{"_id":"492"}}
+{"agid":"440","description":"GOLD SALTS"}
+{"index":{"_id":"493"}}
+{"agid":"242","description":"GOLDEN ROD (SOLIDAGO CANADENSIS)"}
+{"index":{"_id":"494"}}
+{"agid":"900587","description":"GOLDENSEAL"}
+{"index":{"_id":"495"}}
+{"agid":"1166","description":"GOLDTHREAD"}
+{"index":{"_id":"496"}}
+{"agid":"900093","description":"GONADORELIN ANALOGUES"}
+{"index":{"_id":"497"}}
+{"agid":"933","description":"GONADOTROPINS - CHORIONIC"}
+{"index":{"_id":"498"}}
+{"agid":"900175","description":"GOTU KOLA"}
+{"index":{"_id":"499"}}
+{"agid":"1167","description":"GRAMICIDINS"}
+{"index":{"_id":"500"}}
+{"agid":"900189","description":"GRAPE"}
+{"index":{"_id":"501"}}
+{"agid":"230","description":"GRAPEFRUIT"}
+{"index":{"_id":"502"}}
+{"agid":"1181","description":"GRASS POLLEN"}
+{"index":{"_id":"503"}}
+{"agid":"841","description":"GRASS POLLEN-BERMUDA, STANDARD"}
+{"index":{"_id":"504"}}
+{"agid":"1173","description":"GRASS POLLEN-CEREAL RYE, STANDARD"}
+{"index":{"_id":"505"}}
+{"agid":"876","description":"GRASS POLLEN-JUNE GRASS STANDARD"}
+{"index":{"_id":"506"}}
+{"agid":"752","description":"GRASS POLLEN-KENTUCKY BLUE, STANDARD"}
+{"index":{"_id":"507"}}
+{"agid":"751","description":"GRASS POLLEN-MEADOW FESCUE, STANDARD"}
+{"index":{"_id":"508"}}
+{"agid":"1161","description":"GRASS POLLEN-MEADOW FOXTAIL, STANDARD"}
+{"index":{"_id":"509"}}
+{"agid":"753","description":"GRASS POLLEN-ORCHARDGRASS, STANDARD"}
+{"index":{"_id":"510"}}
+{"agid":"754","description":"GRASS POLLEN-PERENNIAL RYE, STANDARD"}
+{"index":{"_id":"511"}}
+{"agid":"755","description":"GRASS POLLEN-RED TOP, STANDARD"}
+{"index":{"_id":"512"}}
+{"agid":"757","description":"GRASS POLLEN-SWEET VERNAL GRASS, STD."}
+{"index":{"_id":"513"}}
+{"agid":"756","description":"GRASS POLLEN-TIMOTHY, STANDARD"}
+{"index":{"_id":"514"}}
+{"agid":"1008","description":"GRAVIOLA"}
+{"index":{"_id":"515"}}
+{"agid":"238","description":"GREATER CELANDINE (CHELIDONIUM MAJUS)"}
+{"index":{"_id":"516"}}
+{"agid":"332","description":"GREEN DYE"}
+{"index":{"_id":"517"}}
+{"agid":"71","description":"GREEN TEA (CAMELLIA SINENSIS)"}
+{"index":{"_id":"518"}}
+{"agid":"334","description":"GREEN, DARK VELO"}
+{"index":{"_id":"519"}}
+{"agid":"408","description":"GRIFFONIA (GRIFFONIA SIMPLICIFOLIA)"}
+{"index":{"_id":"520"}}
+{"agid":"900216","description":"GRISEOFULVIN"}
+{"index":{"_id":"521"}}
+{"agid":"900445","description":"GUAIACOL"}
+{"index":{"_id":"522"}}
+{"agid":"246","description":"GUAIACUM (GUAIACUM OFFICINALE)"}
+{"index":{"_id":"523"}}
+{"agid":"900578","description":"GUAIFENESIN"}
+{"index":{"_id":"524"}}
+{"agid":"137","description":"GUAR GUM"}
+{"index":{"_id":"525"}}
+{"agid":"1093","description":"GUAVA"}
+{"index":{"_id":"526"}}
+{"agid":"1029","description":"GUGGUL (CAMMIPHORA MUKUL)"}
+{"index":{"_id":"527"}}
+{"agid":"1013","description":"GUGGULSTERONE"}
+{"index":{"_id":"528"}}
+{"agid":"111","description":"GYMNEMA"}
+{"index":{"_id":"529"}}
+{"agid":"53","description":"HAEMOPHILUS INFLUENZAE VACCINES"}
+{"index":{"_id":"530"}}
+{"agid":"900190","description":"HAMAMELIS LEAF (WITCH HAZEL LEAF)"}
+{"index":{"_id":"531"}}
+{"agid":"86","description":"HAWTHORN"}
+{"index":{"_id":"532"}}
+{"agid":"1203","description":"HELICTERES ISORA (INDIAN SCREW TREE, AVARTANI)"}
+{"index":{"_id":"533"}}
+{"agid":"986","description":"HEMICELLULASE"}
+{"index":{"_id":"534"}}
+{"agid":"337","description":"HEPARIN ANALOGUES"}
+{"index":{"_id":"535"}}
+{"agid":"900446","description":"HEPTAMINOL"}
+{"index":{"_id":"536"}}
+{"agid":"363","description":"HESPERIDIN"}
+{"index":{"_id":"537"}}
+{"agid":"900096","description":"HEXACHLOROPHENE ANALOGUES"}
+{"index":{"_id":"538"}}
+{"agid":"974","description":"HEXYLENE GLYCOL"}
+{"index":{"_id":"539"}}
+{"agid":"1011","description":"HIBISCUS"}
+{"index":{"_id":"540"}}
+{"agid":"1037","description":"HIBISCUS ABELMOSCHUS"}
+{"index":{"_id":"541"}}
+{"agid":"900112","description":"HIRUDINS"}
+{"index":{"_id":"542"}}
+{"agid":"582","description":"HISTAMINE H2 INHIBITORS"}
+{"index":{"_id":"543"}}
+{"agid":"409","description":"HISTIDINE (L-HISTIDINE)"}
+{"index":{"_id":"544"}}
+{"agid":"1028","description":"HONEY"}
+{"index":{"_id":"545"}}
+{"agid":"398","description":"HONEYSUCKLE"}
+{"index":{"_id":"546"}}
+{"agid":"241","description":"HOPS (HUMULUS LUPULUS)"}
+{"index":{"_id":"547"}}
+{"agid":"900184","description":"HORSE CHESTNUT"}
+{"index":{"_id":"548"}}
+{"agid":"900523","description":"HORSE/EQUINE CONTAINING PRODUCTS"}
+{"index":{"_id":"549"}}
+{"agid":"102","description":"HORSETAIL (EQUISETUM ARVENSE)"}
+{"index":{"_id":"550"}}
+{"agid":"853","description":"HUMAN PAPILLOMAVIRUS VACCINES"}
+{"index":{"_id":"551"}}
+{"agid":"1195","description":"HUPERZINE SERRATE A"}
+{"index":{"_id":"552"}}
+{"agid":"900061","description":"HYALURONATE"}
+{"index":{"_id":"553"}}
+{"agid":"275","description":"HYDANTOINS"}
+{"index":{"_id":"554"}}
+{"agid":"144","description":"HYDRALAZINE ANALOGUES"}
+{"index":{"_id":"555"}}
+{"agid":"850","description":"HYDRANGEA (HYDRANGEA ARBORESCENS)"}
+{"index":{"_id":"556"}}
+{"agid":"902","description":"HYDROCHLORIC ACID"}
+{"index":{"_id":"557"}}
+{"agid":"896","description":"HYDROGEN PEROXIDE"}
+{"index":{"_id":"558"}}
+{"agid":"996","description":"HYDROGENATED ETHYLHEXYL OLIVATE"}
+{"index":{"_id":"559"}}
+{"agid":"666","description":"HYDROGENATED POLYISOBUTENE"}
+{"index":{"_id":"560"}}
+{"agid":"900566","description":"HYDROQUINONE"}
+{"index":{"_id":"561"}}
+{"agid":"779","description":"HYDROXYETHYL ACRYL/SOD ACRYL COPOLYMER"}
+{"index":{"_id":"562"}}
+{"agid":"321","description":"HYDROXYETHYL STARCH"}
+{"index":{"_id":"563"}}
+{"agid":"1016","description":"HYDROXYPROPYLTRIMONIUM CHLORIDE GUAR"}
+{"index":{"_id":"564"}}
+{"agid":"1085","description":"HYGROPHILA SPINOSA"}
+{"index":{"_id":"565"}}
+{"agid":"772","description":"HYSSOP (HYSSOPUS OFFICINALIS)"}
+{"index":{"_id":"566"}}
+{"agid":"548","description":"IBRITUMOMAB ANALOGUES"}
+{"index":{"_id":"567"}}
+{"agid":"900078","description":"IMIDAZOLE ALKYLATING AGENTS"}
+{"index":{"_id":"568"}}
+{"agid":"596","description":"IMIDAZOLIDINYL UREA"}
+{"index":{"_id":"569"}}
+{"agid":"746","description":"INDANDIONE ANALOGUES"}
+{"index":{"_id":"570"}}
+{"agid":"245","description":"INDIAN FRANKINCENSE (BOSWELLIA SERRATA)"}
+{"index":{"_id":"571"}}
+{"agid":"1140","description":"INDIAN SARSAPARILLA"}
+{"index":{"_id":"572"}}
+{"agid":"323","description":"INDOCYANINE GREEN"}
+{"index":{"_id":"573"}}
+{"agid":"1198","description":"INFLIXIMAB ANALOGUES"}
+{"index":{"_id":"574"}}
+{"agid":"512","description":"INFLUENZA VIRUS VACCINES"}
+{"index":{"_id":"575"}}
+{"agid":"900070","description":"INHALED ANESTHETICS (HALOGEN BASED)"}
+{"index":{"_id":"576"}}
+{"agid":"361","description":"INOSITOL"}
+{"index":{"_id":"577"}}
+{"agid":"900014","description":"INOSITOL NIACINATE"}
+{"index":{"_id":"578"}}
+{"agid":"177","description":"INSULINS"}
+{"index":{"_id":"579"}}
+{"agid":"900054","description":"INSULINS - HUMAN"}
+{"index":{"_id":"580"}}
+{"agid":"780","description":"INTERFERONS"}
+{"index":{"_id":"581"}}
+{"agid":"900113","description":"INTERLEUKIN 2 MOIETY"}
+{"index":{"_id":"582"}}
+{"agid":"900248","description":"INTRINSIC FACTOR COMPLEXES"}
+{"index":{"_id":"583"}}
+{"agid":"1078","description":"INULA RACEMOSA"}
+{"index":{"_id":"584"}}
+{"agid":"1154","description":"INULIN"}
+{"index":{"_id":"585"}}
+{"agid":"7","description":"IODINATED CONTRAST- ORAL AND IV DYE"}
+{"index":{"_id":"586"}}
+{"agid":"175","description":"IODINE AND IODIDE CONTAINING PRODUCTS"}
+{"index":{"_id":"587"}}
+{"agid":"176","description":"IODINE CONTAINING MULTIVITAMIN"}
+{"index":{"_id":"588"}}
+{"agid":"900447","description":"IPECAC"}
+{"index":{"_id":"589"}}
+{"agid":"900571","description":"IPRATROPIUM ANALOGUES"}
+{"index":{"_id":"590"}}
+{"agid":"900137","description":"IRON ANALOGUES"}
+{"index":{"_id":"591"}}
+{"agid":"393","description":"ISATIS (DA QING YE)"}
+{"index":{"_id":"592"}}
+{"agid":"1178","description":"ISAVUCONAZONIUM"}
+{"index":{"_id":"593"}}
+{"agid":"644","description":"ISOAMYL ACETATE"}
+{"index":{"_id":"594"}}
+{"agid":"1211","description":"ISODECYL NEOPENTANOATE"}
+{"index":{"_id":"595"}}
+{"agid":"534","description":"ISOHEXADECANE"}
+{"index":{"_id":"596"}}
+{"agid":"461","description":"ISOLEUCINE(L-ISOLEUCINE)"}
+{"index":{"_id":"597"}}
+{"agid":"880","description":"ISONONYL ISONONANOATE"}
+{"index":{"_id":"598"}}
+{"agid":"1158","description":"ISOOCTANE"}
+{"index":{"_id":"599"}}
+{"agid":"633","description":"ISOPROPYL MYRISTATE"}
+{"index":{"_id":"600"}}
+{"agid":"603","description":"ISOPROPYL PALMITATE"}
+{"index":{"_id":"601"}}
+{"agid":"200","description":"ISOSULFAN BLUE"}
+{"index":{"_id":"602"}}
+{"agid":"1171","description":"ISOTHIAZOLINONES"}
+{"index":{"_id":"603"}}
+{"agid":"685","description":"ITRACONAZOLE"}
+{"index":{"_id":"604"}}
+{"agid":"1061","description":"JAMBOLAN (SYZYGIUM CUMINI, JAVA PLUM)"}
+{"index":{"_id":"605"}}
+{"agid":"842","description":"JOJOBA"}
+{"index":{"_id":"606"}}
+{"agid":"350","description":"JUJUBE (ZYZYPHUS JUJUBE)"}
+{"index":{"_id":"607"}}
+{"agid":"900414","description":"JUNIPER"}
+{"index":{"_id":"608"}}
+{"agid":"742","description":"KALE"}
+{"index":{"_id":"609"}}
+{"agid":"1049","description":"KARAYA GUM (STERCULIA GUM)"}
+{"index":{"_id":"610"}}
+{"agid":"234","description":"KAVA (PIPER METHYSTICUM)"}
+{"index":{"_id":"611"}}
+{"agid":"900352","description":"KETAMINE"}
+{"index":{"_id":"612"}}
+{"agid":"900527","description":"KIWI (ACTINIDIA CHINENSIS)"}
+{"index":{"_id":"613"}}
+{"agid":"69","description":"KUDZU"}
+{"index":{"_id":"614"}}
+{"agid":"412","description":"L-GLUTAMIC ACID"}
+{"index":{"_id":"615"}}
+{"agid":"1075","description":"LACTASE"}
+{"index":{"_id":"616"}}
+{"agid":"542","description":"LACTIC ACID"}
+{"index":{"_id":"617"}}
+{"agid":"446","description":"LACTOBACILLUS"}
+{"index":{"_id":"618"}}
+{"agid":"422","description":"LACTOBACILLUS ACIDOPHILUS"}
+{"index":{"_id":"619"}}
+{"agid":"991","description":"LACTOBACILLUS ACIDOPHILUS NCFM"}
+{"index":{"_id":"620"}}
+{"agid":"497","description":"LACTOBACILLUS ACIDOPHILUS PLANTARUM"}
+{"index":{"_id":"621"}}
+{"agid":"427","description":"LACTOBACILLUS BIFIDUS"}
+{"index":{"_id":"622"}}
+{"agid":"1207","description":"LACTOBACILLUS BREVIS"}
+{"index":{"_id":"623"}}
+{"agid":"426","description":"LACTOBACILLUS BULGARICUS"}
+{"index":{"_id":"624"}}
+{"agid":"435","description":"LACTOBACILLUS CASEI"}
+{"index":{"_id":"625"}}
+{"agid":"1007","description":"LACTOBACILLUS DELBRUECKII"}
+{"index":{"_id":"626"}}
+{"agid":"430","description":"LACTOBACILLUS FERMENTUM"}
+{"index":{"_id":"627"}}
+{"agid":"949","description":"LACTOBACILLUS GASSERI"}
+{"index":{"_id":"628"}}
+{"agid":"434","description":"LACTOBACILLUS HELVETICUS"}
+{"index":{"_id":"629"}}
+{"agid":"429","description":"LACTOBACILLUS PARACASEI"}
+{"index":{"_id":"630"}}
+{"agid":"432","description":"LACTOBACILLUS PLANTARUM"}
+{"index":{"_id":"631"}}
+{"agid":"431","description":"LACTOBACILLUS REUTERI"}
+{"index":{"_id":"632"}}
+{"agid":"433","description":"LACTOBACILLUS RHAMNOSUS"}
+{"index":{"_id":"633"}}
+{"agid":"992","description":"LACTOBACILLUS RHAMNOSUS HN001"}
+{"index":{"_id":"634"}}
+{"agid":"1027","description":"LACTOBACILLUS RHAMNOSUS R0011"}
+{"index":{"_id":"635"}}
+{"agid":"828","description":"LACTOBACILLUS SALIVARIUS"}
+{"index":{"_id":"636"}}
+{"agid":"447","description":"LACTOBACILLUS SPOROGENES"}
+{"index":{"_id":"637"}}
+{"agid":"980","description":"LACTOCOCCUS LACTIS"}
+{"index":{"_id":"638"}}
+{"agid":"627","description":"LACTOFERRIN"}
+{"index":{"_id":"639"}}
+{"agid":"625","description":"LACTOPEROXIDASE"}
+{"index":{"_id":"640"}}
+{"agid":"58","description":"LACTUCA VIROSA"}
+{"index":{"_id":"641"}}
+{"agid":"788","description":"LAKE BLEND GREEN LB-1594"}
+{"index":{"_id":"642"}}
+{"agid":"325","description":"LAKE BLEND GREEN LB-620"}
+{"index":{"_id":"643"}}
+{"agid":"326","description":"LAKE BLEND LIGHT GREEN"}
+{"index":{"_id":"644"}}
+{"agid":"127","description":"LAKE BLEND LIGHT ORANGE"}
+{"index":{"_id":"645"}}
+{"agid":"313","description":"LAKE BLEND PURPLE"}
+{"index":{"_id":"646"}}
+{"agid":"946","description":"LANETH-16"}
+{"index":{"_id":"647"}}
+{"agid":"900448","description":"LANOLIN"}
+{"index":{"_id":"648"}}
+{"agid":"232","description":"LANREOTIDE"}
+{"index":{"_id":"649"}}
+{"agid":"792","description":"LARCH (LARIX DECIDUA)"}
+{"index":{"_id":"650"}}
+{"agid":"503","description":"LAURAMIDE"}
+{"index":{"_id":"651"}}
+{"agid":"855","description":"LAURETH 10"}
+{"index":{"_id":"652"}}
+{"agid":"664","description":"LAURETH 4"}
+{"index":{"_id":"653"}}
+{"agid":"677","description":"LAURETH CARBOXYLIC ACID"}
+{"index":{"_id":"654"}}
+{"agid":"886","description":"LAURETH-23"}
+{"index":{"_id":"655"}}
+{"agid":"637","description":"LAURETH-7"}
+{"index":{"_id":"656"}}
+{"agid":"564","description":"LAURIC ACID"}
+{"index":{"_id":"657"}}
+{"agid":"682","description":"LAUROAMPHOGLYCINATE"}
+{"index":{"_id":"658"}}
+{"agid":"950","description":"LAURYL GLUCOSIDE"}
+{"index":{"_id":"659"}}
+{"agid":"820","description":"LAVENDER"}
+{"index":{"_id":"660"}}
+{"agid":"97","description":"LECITHIN"}
+{"index":{"_id":"661"}}
+{"agid":"900121","description":"LEFLUNOMIDE"}
+{"index":{"_id":"662"}}
+{"agid":"41","description":"LEMON"}
+{"index":{"_id":"663"}}
+{"agid":"773","description":"LEMON BALM (MELISSA OFFICINALIS)"}
+{"index":{"_id":"664"}}
+{"agid":"532","description":"LENALIDOMIDE"}
+{"index":{"_id":"665"}}
+{"agid":"1088","description":"LEPTADENIA RETICULATA"}
+{"index":{"_id":"666"}}
+{"agid":"900355","description":"LETROZOLE ANALOGUES"}
+{"index":{"_id":"667"}}
+{"agid":"1155","description":"LEUCAS ASPERA"}
+{"index":{"_id":"668"}}
+{"agid":"419","description":"LEUCINE (L-LEUCINE)"}
+{"index":{"_id":"669"}}
+{"agid":"900597","description":"LEUCOVORIN ANALOGUES"}
+{"index":{"_id":"670"}}
+{"agid":"496","description":"LEVOMENOL ANALOGUES"}
+{"index":{"_id":"671"}}
+{"agid":"32","description":"LICORICE (GLYCYRRHIZA)"}
+{"index":{"_id":"672"}}
+{"agid":"54","description":"LIME"}
+{"index":{"_id":"673"}}
+{"agid":"863","description":"LIMONENE"}
+{"index":{"_id":"674"}}
+{"agid":"485","description":"LINCOSAMIDES"}
+{"index":{"_id":"675"}}
+{"agid":"900419","description":"LINDEN"}
+{"index":{"_id":"676"}}
+{"agid":"1125","description":"LINGONBERRY"}
+{"index":{"_id":"677"}}
+{"agid":"414","description":"LINOLEIC ACID"}
+{"index":{"_id":"678"}}
+{"agid":"900425","description":"LINOLENIC ACID"}
+{"index":{"_id":"679"}}
+{"agid":"380","description":"LIPASE"}
+{"index":{"_id":"680"}}
+{"agid":"804","description":"LIPOSOMES"}
+{"index":{"_id":"681"}}
+{"agid":"689","description":"LISSAMINE GREEN"}
+{"index":{"_id":"682"}}
+{"agid":"900145","description":"LITHIUM ANALOGUES"}
+{"index":{"_id":"683"}}
+{"agid":"827","description":"LIVER"}
+{"index":{"_id":"684"}}
+{"agid":"833","description":"LOBELIA SEED"}
+{"index":{"_id":"685"}}
+{"agid":"522","description":"LUTEIN"}
+{"index":{"_id":"686"}}
+{"agid":"934","description":"LUTEINIZING HORMONE ANALOGUES"}
+{"index":{"_id":"687"}}
+{"agid":"509","description":"LYCOPENE"}
+{"index":{"_id":"688"}}
+{"agid":"183","description":"LYSINE"}
+{"index":{"_id":"689"}}
+{"agid":"92","description":"MACA (LEPIDIUM MEYENII)"}
+{"index":{"_id":"690"}}
+{"agid":"836","description":"MACADAMIA NUT OIL"}
+{"index":{"_id":"691"}}
+{"agid":"1042","description":"MACE (MYRISTICA ARIL)"}
+{"index":{"_id":"692"}}
+{"agid":"479","description":"MACROLIDE ANTIBIOTICS"}
+{"index":{"_id":"693"}}
+{"agid":"900057","description":"MACROLIDE IMMUNOSUPPRESSANT"}
+{"index":{"_id":"694"}}
+{"agid":"900454","description":"MAGNESIUM"}
+{"index":{"_id":"695"}}
+{"agid":"900449","description":"MAGNESIUM CARBONATE"}
+{"index":{"_id":"696"}}
+{"agid":"900450","description":"MAGNESIUM CITRATE"}
+{"index":{"_id":"697"}}
+{"agid":"900451","description":"MAGNESIUM HYDROXIDE"}
+{"index":{"_id":"698"}}
+{"agid":"900452","description":"MAGNESIUM OROTATE"}
+{"index":{"_id":"699"}}
+{"agid":"900453","description":"MAGNESIUM OXIDE"}
+{"index":{"_id":"700"}}
+{"agid":"900455","description":"MAGNESIUM STEARATE"}
+{"index":{"_id":"701"}}
+{"agid":"900488","description":"MAGNESIUM SUCCINATE"}
+{"index":{"_id":"702"}}
+{"agid":"900456","description":"MAGNESIUM SULFATE"}
+{"index":{"_id":"703"}}
+{"agid":"63","description":"MAGNOLIA BARK"}
+{"index":{"_id":"704"}}
+{"agid":"357","description":"MAITAKE MUSHROOM"}
+{"index":{"_id":"705"}}
+{"agid":"970","description":"MALIC ACID"}
+{"index":{"_id":"706"}}
+{"agid":"796","description":"MALTODEXTRIN"}
+{"index":{"_id":"707"}}
+{"agid":"642","description":"MALTOL"}
+{"index":{"_id":"708"}}
+{"agid":"374","description":"MALVA PURPUREA"}
+{"index":{"_id":"709"}}
+{"agid":"900115","description":"MANGANESE"}
+{"index":{"_id":"710"}}
+{"agid":"1131","description":"MANGO"}
+{"index":{"_id":"711"}}
+{"agid":"1147","description":"MANNAN POLYSACCHARIDES"}
+{"index":{"_id":"712"}}
+{"agid":"900250","description":"MANNITOL"}
+{"index":{"_id":"713"}}
+{"agid":"900210","description":"MARIGOLD"}
+{"index":{"_id":"714"}}
+{"agid":"837","description":"MARIJUANA/CANNABINOID"}
+{"index":{"_id":"715"}}
+{"agid":"648","description":"MARINE ALGAES (SEAWEED)"}
+{"index":{"_id":"716"}}
+{"agid":"720","description":"MARJORAM"}
+{"index":{"_id":"717"}}
+{"agid":"771","description":"MARRUBIUM"}
+{"index":{"_id":"718"}}
+{"agid":"605","description":"MEADOWSWEET (FILIPENDULA ULMARIA)"}
+{"index":{"_id":"719"}}
+{"agid":"59","description":"MEASLES (RUBEOLA) VACCINES"}
+{"index":{"_id":"720"}}
+{"agid":"621","description":"MECASERMIN RINFABATE"}
+{"index":{"_id":"721"}}
+{"agid":"868","description":"MECHLORETHAMINE ANALOGUES"}
+{"index":{"_id":"722"}}
+{"agid":"954","description":"MENATETRENONE"}
+{"index":{"_id":"723"}}
+{"agid":"79","description":"MENINGOCOCCAL VACCINES"}
+{"index":{"_id":"724"}}
+{"agid":"900522","description":"MENTHOL CONTAIN PROD"}
+{"index":{"_id":"725"}}
+{"agid":"1114","description":"MEPENZOLATE ANALOGUES"}
+{"index":{"_id":"726"}}
+{"agid":"790","description":"MEQUINOL"}
+{"index":{"_id":"727"}}
+{"agid":"784","description":"MERCAPTOPURINE ANALOGUES (THIOPURINES)"}
+{"index":{"_id":"728"}}
+{"agid":"900252","description":"MERCURIAL ANALOGUES"}
+{"index":{"_id":"729"}}
+{"agid":"1098","description":"MESUA FERREA"}
+{"index":{"_id":"730"}}
+{"agid":"464","description":"METHIONINE ANALOGUES"}
+{"index":{"_id":"731"}}
+{"agid":"900595","description":"METHOTREXATE ANALOGUES"}
+{"index":{"_id":"732"}}
+{"agid":"600","description":"METHYL GLUCETH-10"}
+{"index":{"_id":"733"}}
+{"agid":"900375","description":"METHYLCELLULOSE ANALOGUES"}
+{"index":{"_id":"734"}}
+{"agid":"639","description":"METHYLCHLOROISOTHIAZOLINONE"}
+{"index":{"_id":"735"}}
+{"agid":"900362","description":"METHYLENE BLUE"}
+{"index":{"_id":"736"}}
+{"agid":"640","description":"METHYLISOTHIAZOLINONE"}
+{"index":{"_id":"737"}}
+{"agid":"297","description":"METHYLMETHACRYLATE ANALOGUES"}
+{"index":{"_id":"738"}}
+{"agid":"267","description":"METHYLPHENIDATE ANALOGUES"}
+{"index":{"_id":"739"}}
+{"agid":"528","description":"METHYLSULFONYLMETHANE (MSM)"}
+{"index":{"_id":"740"}}
+{"agid":"587","description":"MICROCRYSTALLINE WAX"}
+{"index":{"_id":"741"}}
+{"agid":"900179","description":"MILK THISTLE"}
+{"index":{"_id":"742"}}
+{"agid":"1145","description":"MILNACIPRAN ANALOGUES"}
+{"index":{"_id":"743"}}
+{"agid":"900457","description":"MINERAL OIL"}
+{"index":{"_id":"744"}}
+{"agid":"1058","description":"MINERAL PITCH (ASPHALTUM)"}
+{"index":{"_id":"745"}}
+{"agid":"716","description":"MISTLETOE (VISCUM MALI - FROM APPLE TREES)"}
+{"index":{"_id":"746"}}
+{"agid":"717","description":"MISTLETOE (VISCUM PINI - FROM PINE TREES)"}
+{"index":{"_id":"747"}}
+{"agid":"718","description":"MISTLETOE (VISCUM QUERCUS - FROM OAKS)"}
+{"index":{"_id":"748"}}
+{"agid":"750","description":"MITE-DERMATOPHAGOIDES FARINAE, STANDARDIZED"}
+{"index":{"_id":"749"}}
+{"agid":"749","description":"MITE-DERMATOPHAGOIDES PTERONYSSINUS, STANDARDIZED"}
+{"index":{"_id":"750"}}
+{"agid":"900365","description":"MODAFINIL ENTANTIOMERS"}
+{"index":{"_id":"751"}}
+{"agid":"900258","description":"MOLYBDENUM"}
+{"index":{"_id":"752"}}
+{"agid":"900395","description":"MONOAMINE OXIDASE INHIBITORS"}
+{"index":{"_id":"753"}}
+{"agid":"983","description":"MORINDA CITRIFOLIA"}
+{"index":{"_id":"754"}}
+{"agid":"1143","description":"MORINGA OLEIFERA"}
+{"index":{"_id":"755"}}
+{"agid":"45","description":"MORPHOLINE ANALOGUES"}
+{"index":{"_id":"756"}}
+{"agid":"900549","description":"MOUSE PROTEIN"}
+{"index":{"_id":"757"}}
+{"agid":"1092","description":"MUCUNA PRURIENS"}
+{"index":{"_id":"758"}}
+{"agid":"98","description":"MUIRA PUAMA"}
+{"index":{"_id":"759"}}
+{"agid":"1048","description":"MULLEIN (VERBASCUM SP)"}
+{"index":{"_id":"760"}}
+{"agid":"513","description":"MUMPS VACCINES"}
+{"index":{"_id":"761"}}
+{"agid":"626","description":"MURAMIDASE (LYSOZYME)"}
+{"index":{"_id":"762"}}
+{"agid":"900058","description":"MURINE ANTIBODY-CONTAINING PRODUCTS"}
+{"index":{"_id":"763"}}
+{"agid":"1138","description":"MUSK ROOT"}
+{"index":{"_id":"764"}}
+{"agid":"75","description":"MUSTARD"}
+{"index":{"_id":"765"}}
+{"agid":"444","description":"MYCOBACTERIUM"}
+{"index":{"_id":"766"}}
+{"agid":"445","description":"MYCOBACTERIUM AVIUM"}
+{"index":{"_id":"767"}}
+{"agid":"442","description":"MYCOBACTERIUM CHELONAE"}
+{"index":{"_id":"768"}}
+{"agid":"443","description":"MYCOBACTERIUM PHLEI"}
+{"index":{"_id":"769"}}
+{"agid":"734","description":"MYCOBACTERIUM TUBERCULOSIS (TUBERCULIN PPD)"}
+{"index":{"_id":"770"}}
+{"agid":"560","description":"MYRISTIC ACID"}
+{"index":{"_id":"771"}}
+{"agid":"872","description":"MYRISTYL ALCOHOL"}
+{"index":{"_id":"772"}}
+{"agid":"993","description":"MYRISTYL MYRISTATE"}
+{"index":{"_id":"773"}}
+{"agid":"225","description":"MYRRH (COMMIPHORA SP.)"}
+{"index":{"_id":"774"}}
+{"agid":"904","description":"N-ACETYLTYROSINE"}
+{"index":{"_id":"775"}}
+{"agid":"1172","description":"NALOXONE ANALOGUES"}
+{"index":{"_id":"776"}}
+{"agid":"852","description":"NALTREXONE ANALOGUES"}
+{"index":{"_id":"777"}}
+{"agid":"1128","description":"NEEM"}
+{"index":{"_id":"778"}}
+{"agid":"619","description":"NEISSERIA MENINGITIDES"}
+{"index":{"_id":"779"}}
+{"agid":"900180","description":"NETTLE"}
+{"index":{"_id":"780"}}
+{"agid":"900042","description":"NEUROMUSCULAR BLOCKERS, BENZYLISOQUINOLINIUM"}
+{"index":{"_id":"781"}}
+{"agid":"900178","description":"NEUROMUSCULAR BLOCKERS, STEROIDAL"}
+{"index":{"_id":"782"}}
+{"agid":"204","description":"NIACIN PREPARATIONS"}
+{"index":{"_id":"783"}}
+{"agid":"692","description":"NICKEL"}
+{"index":{"_id":"784"}}
+{"agid":"216","description":"NICOTINAMIDE ANALOGUES"}
+{"index":{"_id":"785"}}
+{"agid":"900050","description":"NITRATE ANALOGUES"}
+{"index":{"_id":"786"}}
+{"agid":"494","description":"NITROFURAN ANALOGUES"}
+{"index":{"_id":"787"}}
+{"agid":"502","description":"NITROIMIDAZOLES"}
+{"index":{"_id":"788"}}
+{"agid":"791","description":"NITROSOUREAS"}
+{"index":{"_id":"789"}}
+{"agid":"143","description":"NO ALLERGY INFORMATION AVAILABLE"}
+{"index":{"_id":"790"}}
+{"agid":"900388","description":"NO KNOWN ALLERGIES"}
+{"index":{"_id":"791"}}
+{"agid":"900590","description":"NO KNOWN DRUG ALLERGIES"}
+{"index":{"_id":"792"}}
+{"agid":"815","description":"NO KNOWN DRUG INTOLERANCES"}
+{"index":{"_id":"793"}}
+{"agid":"816","description":"NO KNOWN INTOLERANCES"}
+{"index":{"_id":"794"}}
+{"agid":"848","description":"NONOXYNOL"}
+{"index":{"_id":"795"}}
+{"agid":"1156","description":"NOREPINEPHRINE ANALOGUES"}
+{"index":{"_id":"796"}}
+{"agid":"439","description":"NSAIDS (NON-STEROIDAL ANTI-INFLAMMATORY DRUG)"}
+{"index":{"_id":"797"}}
+{"agid":"1041","description":"NUTMEG"}
+{"index":{"_id":"798"}}
+{"agid":"900561","description":"OAK DERIVATIVES"}
+{"index":{"_id":"799"}}
+{"agid":"28","description":"OATS (AVENA)"}
+{"index":{"_id":"800"}}
+{"agid":"764","description":"OCTADECATETRAENOIC ACID"}
+{"index":{"_id":"801"}}
+{"agid":"1014","description":"OCTANOIC ACID"}
+{"index":{"_id":"802"}}
+{"agid":"900299","description":"OCTOXYNOL 9"}
+{"index":{"_id":"803"}}
+{"agid":"900331","description":"OCTREOTIDE"}
+{"index":{"_id":"804"}}
+{"agid":"599","description":"OCTYL STEARATE"}
+{"index":{"_id":"805"}}
+{"agid":"909","description":"OCTYLDODECANOL"}
+{"index":{"_id":"806"}}
+{"agid":"1005","description":"OKRA"}
+{"index":{"_id":"807"}}
+{"agid":"562","description":"OLEIC ACID"}
+{"index":{"_id":"808"}}
+{"agid":"15","description":"OLIVE"}
+{"index":{"_id":"809"}}
+{"agid":"822","description":"OMEGA-3(N-3)POLYUNSATURATED FATTY ACIDS"}
+{"index":{"_id":"810"}}
+{"agid":"78","description":"ONION"}
+{"index":{"_id":"811"}}
+{"agid":"1033","description":"ONOSMA BRACTEATUM"}
+{"index":{"_id":"812"}}
+{"agid":"817","description":"OPACODE GREY"}
+{"index":{"_id":"813"}}
+{"agid":"819","description":"OPADRY BEIGE"}
+{"index":{"_id":"814"}}
+{"agid":"126","description":"OPADRY II ORANGE"}
+{"index":{"_id":"815"}}
+{"agid":"309","description":"OPADRY II PINK"}
+{"index":{"_id":"816"}}
+{"agid":"312","description":"OPADRY II PURPLE 40L10045"}
+{"index":{"_id":"817"}}
+{"agid":"322","description":"OPADRY II WHITE 85F28751"}
+{"index":{"_id":"818"}}
+{"agid":"317","description":"OPADRY WHITE"}
+{"index":{"_id":"819"}}
+{"agid":"319","description":"OPADRY WHITE II"}
+{"index":{"_id":"820"}}
+{"agid":"316","description":"OPADRY WHITE OY-LS-58900"}
+{"index":{"_id":"821"}}
+{"agid":"318","description":"OPADRY WHITE YS-1-7040"}
+{"index":{"_id":"822"}}
+{"agid":"320","description":"OPADRY WHITE YS-2-7063"}
+{"index":{"_id":"823"}}
+{"agid":"311","description":"OPALUX PINK"}
+{"index":{"_id":"824"}}
+{"agid":"1120","description":"OPHIOPOGON JAPONICUS"}
+{"index":{"_id":"825"}}
+{"agid":"268","description":"OPIOIDS - MORPHINE ANALOGUES"}
+{"index":{"_id":"826"}}
+{"agid":"900036","description":"OPIOIDS-MEPERIDINE AND RELATED"}
+{"index":{"_id":"827"}}
+{"agid":"900037","description":"OPIOIDS-METHADONE AND RELATED"}
+{"index":{"_id":"828"}}
+{"agid":"849","description":"ORANGE BLOSSOM"}
+{"index":{"_id":"829"}}
+{"agid":"277","description":"ORANGE FLOWER OIL"}
+{"index":{"_id":"830"}}
+{"agid":"278","description":"ORANGE OIL"}
+{"index":{"_id":"831"}}
+{"agid":"851","description":"ORANGE SHADE #34690"}
+{"index":{"_id":"832"}}
+{"agid":"1184","description":"ORANGE TREE"}
+{"index":{"_id":"833"}}
+{"agid":"1084","description":"ORCHIS MASCULA"}
+{"index":{"_id":"834"}}
+{"agid":"821","description":"OREGANO"}
+{"index":{"_id":"835"}}
+{"agid":"1124","description":"OREGON GRAPE (BERBERIS AQUIFOLIUM)"}
+{"index":{"_id":"836"}}
+{"agid":"228","description":"ORNITHINE (L-ORNITHINE)"}
+{"index":{"_id":"837"}}
+{"agid":"190","description":"OROTIC ACID"}
+{"index":{"_id":"838"}}
+{"agid":"378","description":"OX BILE EXTRACT"}
+{"index":{"_id":"839"}}
+{"agid":"921","description":"OXACEPHEMS"}
+{"index":{"_id":"840"}}
+{"agid":"1165","description":"OXAZOLIDINONE ANTIBACTERIALS"}
+{"index":{"_id":"841"}}
+{"agid":"768","description":"OXIDIZED GLYCEROL TRIESTERS"}
+{"index":{"_id":"842"}}
+{"agid":"892","description":"OXYBENZONE(BENZOPHENONE 3)"}
+{"index":{"_id":"843"}}
+{"agid":"900264","description":"OXYTOCIN"}
+{"index":{"_id":"844"}}
+{"agid":"984","description":"OZOKERITE"}
+{"index":{"_id":"845"}}
+{"agid":"758","description":"PACLITAXEL"}
+{"index":{"_id":"846"}}
+{"agid":"570","description":"PALM ANALOGUES"}
+{"index":{"_id":"847"}}
+{"agid":"572","description":"PALMITAMIDE MEA"}
+{"index":{"_id":"848"}}
+{"agid":"226","description":"PALMITIC ACID"}
+{"index":{"_id":"849"}}
+{"agid":"563","description":"PALMITOLEIC ACID"}
+{"index":{"_id":"850"}}
+{"agid":"672","description":"PALMITOYL OLIGOPEPTIDE"}
+{"index":{"_id":"851"}}
+{"agid":"900286","description":"PANTHENOL ANALOGUES"}
+{"index":{"_id":"852"}}
+{"agid":"900188","description":"PAPAYA"}
+{"index":{"_id":"853"}}
+{"agid":"486","description":"PARAFFIN"}
+{"index":{"_id":"854"}}
+{"agid":"736","description":"PARATYPHOID VACCINES"}
+{"index":{"_id":"855"}}
+{"agid":"1089","description":"PARMELIA PERLATA"}
+{"index":{"_id":"856"}}
+{"agid":"103","description":"PARSLEY (PETROSELINUM SP)"}
+{"index":{"_id":"857"}}
+{"agid":"900259","description":"PASSION FLOWER"}
+{"index":{"_id":"858"}}
+{"agid":"1080","description":"PASSION FRUIT"}
+{"index":{"_id":"859"}}
+{"agid":"67","description":"PAU D'ARCO"}
+{"index":{"_id":"860"}}
+{"agid":"244","description":"PEACH (PRUNUS PERSICA)"}
+{"index":{"_id":"861"}}
+{"agid":"900458","description":"PECTIN"}
+{"index":{"_id":"862"}}
+{"agid":"985","description":"PECTINASE"}
+{"index":{"_id":"863"}}
+{"agid":"786","description":"PEGADEMASE BOVINE"}
+{"index":{"_id":"864"}}
+{"agid":"708","description":"PENCICLOVIR ANALOGUES"}
+{"index":{"_id":"865"}}
+{"agid":"900028","description":"PENICILLAMINE"}
+{"index":{"_id":"866"}}
+{"agid":"476","description":"PENICILLINS"}
+{"index":{"_id":"867"}}
+{"agid":"968","description":"PENTACLETHRA MACROLOBA SEED OIL"}
+{"index":{"_id":"868"}}
+{"agid":"1076","description":"PENTETIC ACID"}
+{"index":{"_id":"869"}}
+{"agid":"535","description":"PENTYLENE GLYCOL"}
+{"index":{"_id":"870"}}
+{"agid":"900521","description":"PEPPERMINT AND DERIVATIVES"}
+{"index":{"_id":"871"}}
+{"agid":"387","description":"PEPSIN"}
+{"index":{"_id":"872"}}
+{"agid":"451","description":"PERILLA"}
+{"index":{"_id":"873"}}
+{"agid":"1189","description":"PERSULFATES"}
+{"index":{"_id":"874"}}
+{"agid":"74","description":"PERTUSSIS VACCINES"}
+{"index":{"_id":"875"}}
+{"agid":"586","description":"PETROLATUM"}
+{"index":{"_id":"876"}}
+{"agid":"900267","description":"PHENACEMIDE"}
+{"index":{"_id":"877"}}
+{"agid":"259","description":"PHENOTHIAZINES"}
+{"index":{"_id":"878"}}
+{"agid":"714","description":"PHENYLALANINE"}
+{"index":{"_id":"879"}}
+{"agid":"900207","description":"PHENYLPIPERAZINE ANTIDEPRESSANT"}
+{"index":{"_id":"880"}}
+{"agid":"882","description":"PHOSPHATIDYLETHANOLAMINE"}
+{"index":{"_id":"881"}}
+{"agid":"814","description":"PHOSPHORIC ACID"}
+{"index":{"_id":"882"}}
+{"agid":"678","description":"PHOSPHOROUS ACID"}
+{"index":{"_id":"883"}}
+{"agid":"533","description":"PHOSPHORUS"}
+{"index":{"_id":"884"}}
+{"agid":"1065","description":"PHYLLANTHUS AMARUS"}
+{"index":{"_id":"885"}}
+{"agid":"987","description":"PHYTASE"}
+{"index":{"_id":"886"}}
+{"agid":"856","description":"PHYTOSTEROLS"}
+{"index":{"_id":"887"}}
+{"agid":"818","description":"PIGMENT BLEND PB53552 ORANGE"}
+{"index":{"_id":"888"}}
+{"agid":"812","description":"PIMOZIDE"}
+{"index":{"_id":"889"}}
+{"agid":"1188","description":"PINE OIL"}
+{"index":{"_id":"890"}}
+{"agid":"90","description":"PINEAPPLE"}
+{"index":{"_id":"891"}}
+{"agid":"310","description":"PINK DYE"}
+{"index":{"_id":"892"}}
+{"agid":"1079","description":"PIPER CUBEBA"}
+{"index":{"_id":"893"}}
+{"agid":"452","description":"PIPER LONGUM"}
+{"index":{"_id":"894"}}
+{"agid":"900126","description":"PIPERAZINE ANALOGUES"}
+{"index":{"_id":"895"}}
+{"agid":"943","description":"PIPERINE"}
+{"index":{"_id":"896"}}
+{"agid":"346","description":"PIPSISSEWA (CHIMAPHILA UMBELLATA)"}
+{"index":{"_id":"897"}}
+{"agid":"538","description":"PIROCTONE"}
+{"index":{"_id":"898"}}
+{"agid":"1040","description":"PISTACIA VERA (PISTACHIO)"}
+{"index":{"_id":"899"}}
+{"agid":"1081","description":"PLANT STEROL"}
+{"index":{"_id":"900"}}
+{"agid":"879","description":"PLANTAIN (MUSA)"}
+{"index":{"_id":"901"}}
+{"agid":"724","description":"PLASMA PROTEIN FRACTION"}
+{"index":{"_id":"902"}}
+{"agid":"900083","description":"PLATINUM COMPLEXES"}
+{"index":{"_id":"903"}}
+{"agid":"1123","description":"PLATYCODON GRANDIFLORUS"}
+{"index":{"_id":"904"}}
+{"agid":"871","description":"PLUKENETIA VOLUBILIS"}
+{"index":{"_id":"905"}}
+{"agid":"999","description":"PLUM"}
+{"index":{"_id":"906"}}
+{"agid":"900033","description":"PODOPHYLLOTOXIN ANALOGUES"}
+{"index":{"_id":"907"}}
+{"agid":"1191","description":"POLAPREZINC"}
+{"index":{"_id":"908"}}
+{"agid":"81","description":"POLIO VIRUS VACCINES"}
+{"index":{"_id":"909"}}
+{"agid":"807","description":"POLOXAMER"}
+{"index":{"_id":"910"}}
+{"agid":"635","description":"POLYACRYLAMIDE"}
+{"index":{"_id":"911"}}
+{"agid":"958","description":"POLYACRYLATE-13"}
+{"index":{"_id":"912"}}
+{"agid":"977","description":"POLYAMINO SUGAR CONDENSATE"}
+{"index":{"_id":"913"}}
+{"agid":"847","description":"POLYETHYLENE"}
+{"index":{"_id":"914"}}
+{"agid":"900162","description":"POLYETHYLENE GLYCOL ANALOGUES"}
+{"index":{"_id":"915"}}
+{"agid":"655","description":"POLYGONUM CUSPIDATUM (JAPANESE KNOTWOOD)"}
+{"index":{"_id":"916"}}
+{"agid":"628","description":"POLYISOBUTENE"}
+{"index":{"_id":"917"}}
+{"agid":"1197","description":"POLYMYXINS"}
+{"index":{"_id":"918"}}
+{"agid":"669","description":"POLYOXYETHYLATED STEARYL ALCOHOL (STEARETH-30)"}
+{"index":{"_id":"919"}}
+{"agid":"417","description":"POLYPHOSPHORIC ACID"}
+{"index":{"_id":"920"}}
+{"agid":"707","description":"POLYSORBATE"}
+{"index":{"_id":"921"}}
+{"agid":"706","description":"POLYVINYL ALCOHOL"}
+{"index":{"_id":"922"}}
+{"agid":"1100","description":"POMALIDOMIDE"}
+{"index":{"_id":"923"}}
+{"agid":"705","description":"POMEGRANATE"}
+{"index":{"_id":"924"}}
+{"agid":"830","description":"POPPYSEED OIL"}
+{"index":{"_id":"925"}}
+{"agid":"454","description":"PORIA MUSHROOM (PORIA COCOS)"}
+{"index":{"_id":"926"}}
+{"agid":"900292","description":"PORPHYRINS"}
+{"index":{"_id":"927"}}
+{"agid":"1174","description":"PORTIA TREE (THESPESIA POPULNEA)"}
+{"index":{"_id":"928"}}
+{"agid":"551","description":"POSACONAZOLE"}
+{"index":{"_id":"929"}}
+{"agid":"191","description":"POTASSIUM"}
+{"index":{"_id":"930"}}
+{"agid":"725","description":"POTASSIUM BICARBONATE"}
+{"index":{"_id":"931"}}
+{"agid":"900461","description":"POTASSIUM CHLORIDE"}
+{"index":{"_id":"932"}}
+{"agid":"900460","description":"POTASSIUM CITRATE"}
+{"index":{"_id":"933"}}
+{"agid":"594","description":"POTASSIUM SORBATE"}
+{"index":{"_id":"934"}}
+{"agid":"1180","description":"POTATO"}
+{"index":{"_id":"935"}}
+{"agid":"1168","description":"POULTRY"}
+{"index":{"_id":"936"}}
+{"agid":"652","description":"POVIDONE ANALOGUES"}
+{"index":{"_id":"937"}}
+{"agid":"46","description":"PRAMOXINE"}
+{"index":{"_id":"938"}}
+{"agid":"858","description":"PRASUGREL"}
+{"index":{"_id":"939"}}
+{"agid":"709","description":"PREGABALIN"}
+{"index":{"_id":"940"}}
+{"agid":"1086","description":"PRICKLY LETTUCE"}
+{"index":{"_id":"941"}}
+{"agid":"354","description":"PRIVET (LIGUSTRUM LUCIDUM)"}
+{"index":{"_id":"942"}}
+{"agid":"900041","description":"PROCAINAMIDE"}
+{"index":{"_id":"943"}}
+{"agid":"1117","description":"PROCYCLIDINE ANALOGUES"}
+{"index":{"_id":"944"}}
+{"agid":"900217","description":"PROGESTINS"}
+{"index":{"_id":"945"}}
+{"agid":"459","description":"PROLINE(L-PROLINE)"}
+{"index":{"_id":"946"}}
+{"agid":"1116","description":"PROPANTHELINE ANALOGUES"}
+{"index":{"_id":"947"}}
+{"agid":"1163","description":"PROPIONIBACTERIUM FREUDENREICHII"}
+{"index":{"_id":"948"}}
+{"agid":"900302","description":"PROPOFOL ANALOGUES"}
+{"index":{"_id":"949"}}
+{"agid":"382","description":"PROPOLIS (BEE GLUE)"}
+{"index":{"_id":"950"}}
+{"agid":"900015","description":"PROPOXYPHENE"}
+{"index":{"_id":"951"}}
+{"agid":"539","description":"PROPYL GALLATE"}
+{"index":{"_id":"952"}}
+{"agid":"900345","description":"PROPYLENE GLYCOL"}
+{"index":{"_id":"953"}}
+{"agid":"966","description":"PROPYLHEPTYL CAPRYLATE"}
+{"index":{"_id":"954"}}
+{"agid":"900400","description":"PROSTACYCLIN ANALOGUES"}
+{"index":{"_id":"955"}}
+{"agid":"900563","description":"PROSTAGLANDINS E1"}
+{"index":{"_id":"956"}}
+{"agid":"900564","description":"PROSTAGLANDINS E2"}
+{"index":{"_id":"957"}}
+{"agid":"900562","description":"PROSTAGLANDINS F2A"}
+{"index":{"_id":"958"}}
+{"agid":"900067","description":"PROTAMINE"}
+{"index":{"_id":"959"}}
+{"agid":"381","description":"PROTEASE"}
+{"index":{"_id":"960"}}
+{"agid":"900519","description":"PROTEIN SUBSTANCE (INC AMINO ACIDS)"}
+{"index":{"_id":"961"}}
+{"agid":"900462","description":"PROTEIN SUPPLEMENT"}
+{"index":{"_id":"962"}}
+{"agid":"900045","description":"PROTON PUMP INHIBITORS"}
+{"index":{"_id":"963"}}
+{"agid":"744","description":"PRUNES"}
+{"index":{"_id":"964"}}
+{"agid":"214","description":"PRUSSIAN BLUE"}
+{"index":{"_id":"965"}}
+{"agid":"900303","description":"PSORALENS"}
+{"index":{"_id":"966"}}
+{"agid":"900335","description":"PSYLLIUM"}
+{"index":{"_id":"967"}}
+{"agid":"1059","description":"PTEROCARPUS MARSUPIUM"}
+{"index":{"_id":"968"}}
+{"agid":"347","description":"PULSATILLA"}
+{"index":{"_id":"969"}}
+{"agid":"544","description":"PUMPKIN"}
+{"index":{"_id":"970"}}
+{"agid":"100","description":"PUNCTURE VINE"}
+{"index":{"_id":"971"}}
+{"agid":"314","description":"PURPLE DYE"}
+{"index":{"_id":"972"}}
+{"agid":"1096","description":"PURPLE NUTSEDGE"}
+{"index":{"_id":"973"}}
+{"agid":"1001","description":"PVM/MA DECADIENE CROSSPOLYMER"}
+{"index":{"_id":"974"}}
+{"agid":"17","description":"PYGEUM AFRICANUM"}
+{"index":{"_id":"975"}}
+{"agid":"271","description":"PYRAZOLES"}
+{"index":{"_id":"976"}}
+{"agid":"900080","description":"PYRIMIDINE ANALOGUES"}
+{"index":{"_id":"977"}}
+{"agid":"1202","description":"PYRIMIDINE SYNTHESIS INHIBITOR"}
+{"index":{"_id":"978"}}
+{"agid":"636","description":"PYRROLIDONE ANALOGUES"}
+{"index":{"_id":"979"}}
+{"agid":"608","description":"QUATERNIUM ANALOGUES"}
+{"index":{"_id":"980"}}
+{"agid":"142","description":"QUERCETIN"}
+{"index":{"_id":"981"}}
+{"agid":"1215","description":"QUILLAJA (QUILLAJA SAPONARIA)"}
+{"index":{"_id":"982"}}
+{"agid":"900131","description":"QUINAZOLINE ANALOGUES"}
+{"index":{"_id":"983"}}
+{"agid":"914","description":"QUINAZOLINONES"}
+{"index":{"_id":"984"}}
+{"agid":"900016","description":"QUINIDINE-QUININE ANALOGUES (CINCHONA ALKALOIDS)"}
+{"index":{"_id":"985"}}
+{"agid":"3668","description":"QUINOLONES"}
+{"index":{"_id":"986"}}
+{"agid":"731","description":"RABIES VACCINES"}
+{"index":{"_id":"987"}}
+{"agid":"938","description":"RADISH (RAPHANUS SATIVUS)"}
+{"index":{"_id":"988"}}
+{"agid":"967","description":"RADISH ROOT"}
+{"index":{"_id":"989"}}
+{"agid":"767","description":"RAGWEED"}
+{"index":{"_id":"990"}}
+{"agid":"1205","description":"RAPESEED"}
+{"index":{"_id":"991"}}
+{"agid":"583","description":"RASPBERRY (RUBUS IDAEUS)"}
+{"index":{"_id":"992"}}
+{"agid":"145","description":"RAUWOLFIA ALKALOIDS"}
+{"index":{"_id":"993"}}
+{"agid":"252","description":"RED BEET (BETA VULGARIS)"}
+{"index":{"_id":"994"}}
+{"agid":"900182","description":"RED CLOVER"}
+{"index":{"_id":"995"}}
+{"agid":"1012","description":"RED YEAST RICE (MONASCUS PURPUREUS)"}
+{"index":{"_id":"996"}}
+{"agid":"1119","description":"REHMANNIA (REHMANNIA GLUTINOSA)"}
+{"index":{"_id":"997"}}
+{"agid":"356","description":"REISHI MUSHROOM (GANODERMA LUCIDUM)"}
+{"index":{"_id":"998"}}
+{"agid":"189","description":"RESORCINOL"}
+{"index":{"_id":"999"}}
+{"agid":"1183","description":"RESVERATROL"}
+{"index":{"_id":"1000"}}
+{"agid":"1010","description":"RHUBARB"}
+{"index":{"_id":"1001"}}
+{"agid":"457","description":"RIBOFLAVIN (VITAMIN B-2)"}
+{"index":{"_id":"1002"}}
+{"agid":"895","description":"RIBOSE"}
+{"index":{"_id":"1003"}}
+{"agid":"34","description":"RICE"}
+{"index":{"_id":"1004"}}
+{"agid":"900101","description":"RIFAMYCIN ANALOGUES"}
+{"index":{"_id":"1005"}}
+{"agid":"900206","description":"RISPERIDONE ANALOGUES"}
+{"index":{"_id":"1006"}}
+{"agid":"104","description":"ROSE HIPS"}
+{"index":{"_id":"1007"}}
+{"agid":"233","description":"ROSEMARY"}
+{"index":{"_id":"1008"}}
+{"agid":"469","description":"ROTAVIRUS VACCINES"}
+{"index":{"_id":"1009"}}
+{"agid":"107","description":"ROYAL JELLY"}
+{"index":{"_id":"1010"}}
+{"agid":"60","description":"RUBELLA (GERMAN MEASLES) VACCINES"}
+{"index":{"_id":"1011"}}
+{"agid":"1054","description":"RUBIA CORDIFOLIA"}
+{"index":{"_id":"1012"}}
+{"agid":"862","description":"RUFINAMIDE"}
+{"index":{"_id":"1013"}}
+{"agid":"1072","description":"RUMEX MARITIMUS"}
+{"index":{"_id":"1014"}}
+{"agid":"184","description":"RUTIN ANALOGUES"}
+{"index":{"_id":"1015"}}
+{"agid":"900541","description":"SACCHARIN"}
+{"index":{"_id":"1016"}}
+{"agid":"663","description":"SACCHAROMYCES BOULARDII"}
+{"index":{"_id":"1017"}}
+{"agid":"662","description":"SACCHAROMYCES CEREVISIAE"}
+{"index":{"_id":"1018"}}
+{"agid":"1133","description":"SACRED LOTUS (NELUMBO NUCIFERA)"}
+{"index":{"_id":"1019"}}
+{"agid":"805","description":"SAFFLOWER OIL"}
+{"index":{"_id":"1020"}}
+{"agid":"1095","description":"SAFFRON"}
+{"index":{"_id":"1021"}}
+{"agid":"900412","description":"SAGE"}
+{"index":{"_id":"1022"}}
+{"agid":"270","description":"SALICYLATES"}
+{"index":{"_id":"1023"}}
+{"agid":"659","description":"SANGUISORBA OFFICINALIS"}
+{"index":{"_id":"1024"}}
+{"agid":"1101","description":"SARACA INDICA"}
+{"index":{"_id":"1025"}}
+{"agid":"573","description":"SARCOSINE"}
+{"index":{"_id":"1026"}}
+{"agid":"25","description":"SARSAPARILLA (SMILAX)"}
+{"index":{"_id":"1027"}}
+{"agid":"27","description":"SAW PALMETTO (SERENOA)"}
+{"index":{"_id":"1028"}}
+{"agid":"1053","description":"SAXIFRAGA LIGULATA"}
+{"index":{"_id":"1029"}}
+{"agid":"450","description":"SCHISANDRA (SCHISANDRA CHINENSIS)"}
+{"index":{"_id":"1030"}}
+{"agid":"397","description":"SCHIZONEPETA"}
+{"index":{"_id":"1031"}}
+{"agid":"900410","description":"SCYTHIAN LAMB"}
+{"index":{"_id":"1032"}}
+{"agid":"152","description":"SEA CUCUMBER"}
+{"index":{"_id":"1033"}}
+{"agid":"650","description":"SEA PARSLEY (PALMARIA PALMATA)"}
+{"index":{"_id":"1034"}}
+{"agid":"651","description":"SEA WHIP"}
+{"index":{"_id":"1035"}}
+{"agid":"56","description":"SELENIUM ANALOGUES"}
+{"index":{"_id":"1036"}}
+{"agid":"900582","description":"SENEGA ROOT"}
+{"index":{"_id":"1037"}}
+{"agid":"900186","description":"SENNOSIDES"}
+{"index":{"_id":"1038"}}
+{"agid":"1142","description":"SENSITIVE PLANT"}
+{"index":{"_id":"1039"}}
+{"agid":"410","description":"SERINE ANALOGUES"}
+{"index":{"_id":"1040"}}
+{"agid":"900034","description":"SEROTONIN 5HT-3 ANTAGONISTS"}
+{"index":{"_id":"1041"}}
+{"agid":"1179","description":"SESAME"}
+{"index":{"_id":"1042"}}
+{"agid":"665","description":"SHEA TREE (BUTYROSPERMUM PAKII)"}
+{"index":{"_id":"1043"}}
+{"agid":"900576","description":"SHEEP/OVINE CONTAINING PRODUCTS"}
+{"index":{"_id":"1044"}}
+{"agid":"340","description":"SHIITAKE MUSHROOM (LENTINUS EDODES)"}
+{"index":{"_id":"1045"}}
+{"agid":"865","description":"SILICA GEL"}
+{"index":{"_id":"1046"}}
+{"agid":"900494","description":"SILICON"}
+{"index":{"_id":"1047"}}
+{"agid":"632","description":"SILICON DIOXIDE"}
+{"index":{"_id":"1048"}}
+{"agid":"638","description":"SILICONE"}
+{"index":{"_id":"1049"}}
+{"agid":"1106","description":"SILK COTTON TREE (BOMBAX CEIBA)"}
+{"index":{"_id":"1050"}}
+{"agid":"900463","description":"SILVER"}
+{"index":{"_id":"1051"}}
+{"agid":"139","description":"SKULLCAP (SCUTELLARIA)"}
+{"index":{"_id":"1052"}}
+{"agid":"88","description":"SLIPPERY ELM (ULMUS)"}
+{"index":{"_id":"1053"}}
+{"agid":"739","description":"SMALLPOX VACCINES"}
+{"index":{"_id":"1054"}}
+{"agid":"1175","description":"SNAKE GOURD (TRICHOSANTHES CUCUMERINA)"}
+{"index":{"_id":"1055"}}
+{"agid":"982","description":"SODIUM ACRYLATE- SODIUM ACRYLOYLDIMETHYL TAURATE"}
+{"index":{"_id":"1056"}}
+{"agid":"900464","description":"SODIUM BENZOATE"}
+{"index":{"_id":"1057"}}
+{"agid":"283","description":"SODIUM CARBONATE"}
+{"index":{"_id":"1058"}}
+{"agid":"893","description":"SODIUM CETEARYL SULFATE"}
+{"index":{"_id":"1059"}}
+{"agid":"900466","description":"SODIUM CITRATE"}
+{"index":{"_id":"1060"}}
+{"agid":"713","description":"SODIUM COCOYL ISETHIONATE"}
+{"index":{"_id":"1061"}}
+{"agid":"846","description":"SODIUM DODECYLBENZENE SULFONATE"}
+{"index":{"_id":"1062"}}
+{"agid":"109","description":"SODIUM HYDROXIDE"}
+{"index":{"_id":"1063"}}
+{"agid":"504","description":"SODIUM ISOSTEAROYL LACTYLATE"}
+{"index":{"_id":"1064"}}
+{"agid":"936","description":"SODIUM LAUROYL LACTYLATE"}
+{"index":{"_id":"1065"}}
+{"agid":"498","description":"SODIUM LAURYL SULFATE"}
+{"index":{"_id":"1066"}}
+{"agid":"1187","description":"SODIUM METASILICATE"}
+{"index":{"_id":"1067"}}
+{"agid":"972","description":"SODIUM METHYL COCOYL TAURATE"}
+{"index":{"_id":"1068"}}
+{"agid":"900372","description":"SODIUM MORRHUATE/COD LIVER OIL"}
+{"index":{"_id":"1069"}}
+{"agid":"964","description":"SODIUM MYRISTOYL SARCOSINATE"}
+{"index":{"_id":"1070"}}
+{"agid":"108","description":"SODIUM PHOSPHATE"}
+{"index":{"_id":"1071"}}
+{"agid":"243","description":"SODIUM PICOSULFATE"}
+{"index":{"_id":"1072"}}
+{"agid":"676","description":"SODIUM POLYOXYETHYLENE TRIDECYL SULFATE"}
+{"index":{"_id":"1073"}}
+{"agid":"1015","description":"SODIUM PYROGLUTAMATE"}
+{"index":{"_id":"1074"}}
+{"agid":"894","description":"SODIUM PYROPHOSPHATE"}
+{"index":{"_id":"1075"}}
+{"agid":"995","description":"SODIUM SULFATE"}
+{"index":{"_id":"1076"}}
+{"agid":"900467","description":"SODIUM THIOSULFATE"}
+{"index":{"_id":"1077"}}
+{"agid":"1077","description":"SOLANUM LASIOCARPUM"}
+{"index":{"_id":"1078"}}
+{"agid":"1104","description":"SOLANUM NIGRUM"}
+{"index":{"_id":"1079"}}
+{"agid":"1035","description":"SOLANUM XANTHOCARPUM"}
+{"index":{"_id":"1080"}}
+{"agid":"782","description":"SOMATOSTATIN"}
+{"index":{"_id":"1081"}}
+{"agid":"64","description":"SOUR JUJUBE (ZIZIPHUS)"}
+{"index":{"_id":"1082"}}
+{"agid":"130","description":"SPEARMINT"}
+{"index":{"_id":"1083"}}
+{"agid":"1063","description":"SPHAERANTHUS INDICUS"}
+{"index":{"_id":"1084"}}
+{"agid":"1199","description":"SPILANTHES ACMELLA"}
+{"index":{"_id":"1085"}}
+{"agid":"740","description":"SPINACH"}
+{"index":{"_id":"1086"}}
+{"agid":"197","description":"SQUALENE ANALOGUES"}
+{"index":{"_id":"1087"}}
+{"agid":"900183","description":"ST. JOHN'S WORT"}
+{"index":{"_id":"1088"}}
+{"agid":"1141","description":"ST. THOMAS LIDPOD"}
+{"index":{"_id":"1089"}}
+{"agid":"903","description":"STARCH"}
+{"index":{"_id":"1090"}}
+{"agid":"900095","description":"STATINS-HMG-COA REDUCTASE INHIBITORS"}
+{"index":{"_id":"1091"}}
+{"agid":"859","description":"STEARALKONIUM CHLORIDE"}
+{"index":{"_id":"1092"}}
+{"agid":"897","description":"STEARETH-20"}
+{"index":{"_id":"1093"}}
+{"agid":"806","description":"STEARETH-21"}
+{"index":{"_id":"1094"}}
+{"agid":"489","description":"STEARIC ACID"}
+{"index":{"_id":"1095"}}
+{"agid":"592","description":"STEARYL ALCOHOL"}
+{"index":{"_id":"1096"}}
+{"agid":"803","description":"STEVIOSIDE"}
+{"index":{"_id":"1097"}}
+{"agid":"87","description":"STRAWBERRY"}
+{"index":{"_id":"1098"}}
+{"agid":"438","description":"STREPTOCOCCUS"}
+{"index":{"_id":"1099"}}
+{"agid":"437","description":"STREPTOCOCCUS LACTIS"}
+{"index":{"_id":"1100"}}
+{"agid":"1044","description":"STREPTOCOCCUS MITIS"}
+{"index":{"_id":"1101"}}
+{"agid":"441","description":"STREPTOCOCCUS PYOGENES"}
+{"index":{"_id":"1102"}}
+{"agid":"1190","description":"STREPTOCOCCUS SALIVARIUS"}
+{"index":{"_id":"1103"}}
+{"agid":"436","description":"STREPTOCOCCUS THERMOPHILUS"}
+{"index":{"_id":"1104"}}
+{"agid":"1018","description":"STREPTOCOCCUS VIRIDANS"}
+{"index":{"_id":"1105"}}
+{"agid":"900321","description":"STREPTOGRAMINS"}
+{"index":{"_id":"1106"}}
+{"agid":"508","description":"STREPTOKINASE ANALOGUES"}
+{"index":{"_id":"1107"}}
+{"agid":"700","description":"STREPTOMYCES PARVULLUS"}
+{"index":{"_id":"1108"}}
+{"agid":"766","description":"STREPTOMYCES ROSEOSPORUS"}
+{"index":{"_id":"1109"}}
+{"agid":"35","description":"STRONTIUM ANALOGUES"}
+{"index":{"_id":"1110"}}
+{"agid":"343","description":"SUCCINIC ACID"}
+{"index":{"_id":"1111"}}
+{"agid":"900064","description":"SUCCINIMIDES"}
+{"index":{"_id":"1112"}}
+{"agid":"900311","description":"SUCRALFATE"}
+{"index":{"_id":"1113"}}
+{"agid":"866","description":"SUCRALOSE"}
+{"index":{"_id":"1114"}}
+{"agid":"900306","description":"SULBACTAM"}
+{"index":{"_id":"1115"}}
+{"agid":"491","description":"SULFA (SULFONAMIDE ANTIBIOTICS)"}
+{"index":{"_id":"1116"}}
+{"agid":"900009","description":"SULFINPYRAZONE"}
+{"index":{"_id":"1117"}}
+{"agid":"900237","description":"SULFONE"}
+{"index":{"_id":"1118"}}
+{"agid":"178","description":"SULFONYLUREAS"}
+{"index":{"_id":"1119"}}
+{"agid":"472","description":"SUNFLOWER OIL"}
+{"index":{"_id":"1120"}}
+{"agid":"524","description":"SUPEROXIDE DISMUTASE"}
+{"index":{"_id":"1121"}}
+{"agid":"352","description":"SWEET CLOVER (MELILOTUS SP.,MELILOT)"}
+{"index":{"_id":"1122"}}
+{"agid":"888","description":"SWEET ORANGE(CITRUS SINENSIS)"}
+{"index":{"_id":"1123"}}
+{"agid":"1127","description":"SWEET POTATO"}
+{"index":{"_id":"1124"}}
+{"agid":"300","description":"SWEET-SCENTED GERANIUM (PELARGONIUM GRV)"}
+{"index":{"_id":"1125"}}
+{"agid":"793","description":"SWEETLEAF (STEVIA REBAUDIANA)"}
+{"index":{"_id":"1126"}}
+{"agid":"1064","description":"SWERTIA CHIRAYITA"}
+{"index":{"_id":"1127"}}
+{"agid":"1103","description":"SYMPLOCOS RACEMOSA"}
+{"index":{"_id":"1128"}}
+{"agid":"900065","description":"SYNTHETIC POLYSACCHARIDE"}
+{"index":{"_id":"1129"}}
+{"agid":"900411","description":"TAGETES"}
+{"index":{"_id":"1130"}}
+{"agid":"631","description":"TALC"}
+{"index":{"_id":"1131"}}
+{"agid":"1025","description":"TAMARIX GALLICA (FRENCH TAMARISK)"}
+{"index":{"_id":"1132"}}
+{"agid":"900297","description":"TAMOXIFEN ANALOGUES"}
+{"index":{"_id":"1133"}}
+{"agid":"155","description":"TAPIOCA"}
+{"index":{"_id":"1134"}}
+{"agid":"128","description":"TAURINE"}
+{"index":{"_id":"1135"}}
+{"agid":"900177","description":"TEA TREE"}
+{"index":{"_id":"1136"}}
+{"agid":"474","description":"TEICOPLANIN"}
+{"index":{"_id":"1137"}}
+{"agid":"540","description":"TELMESTEINE"}
+{"index":{"_id":"1138"}}
+{"agid":"576","description":"TERBINAFINE"}
+{"index":{"_id":"1139"}}
+{"agid":"686","description":"TERCONAZOLE"}
+{"index":{"_id":"1140"}}
+{"agid":"1045","description":"TERIFLUNOMIDE"}
+{"index":{"_id":"1141"}}
+{"agid":"1111","description":"TERMINALIA ARJUNA"}
+{"index":{"_id":"1142"}}
+{"agid":"1132","description":"TERMINALIA BELLIRICA"}
+{"index":{"_id":"1143"}}
+{"agid":"1023","description":"TERMINALIA CHEBULA"}
+{"index":{"_id":"1144"}}
+{"agid":"519","description":"TETANUS VACCINES AND TOXOID"}
+{"index":{"_id":"1145"}}
+{"agid":"1208","description":"TETRABENAZINE DERIVATIVES"}
+{"index":{"_id":"1146"}}
+{"agid":"900151","description":"TETRACYCLIC ANTIDEPRESSANTS"}
+{"index":{"_id":"1147"}}
+{"agid":"478","description":"TETRACYCLINES"}
+{"index":{"_id":"1148"}}
+{"agid":"671","description":"TETRAISOSTEARATE"}
+{"index":{"_id":"1149"}}
+{"agid":"900117","description":"THALIDOMIDE"}
+{"index":{"_id":"1150"}}
+{"agid":"531","description":"THEANINE"}
+{"index":{"_id":"1151"}}
+{"agid":"869","description":"THEOBROMA GRANDIFLORUM"}
+{"index":{"_id":"1152"}}
+{"agid":"424","description":"THIAZIDES"}
+{"index":{"_id":"1153"}}
+{"agid":"510","description":"THIOCTIC ACID (ALPHA-LIPOIC ACID)"}
+{"index":{"_id":"1154"}}
+{"agid":"900598","description":"THIOURACIL ANALOGUES"}
+{"index":{"_id":"1155"}}
+{"agid":"811","description":"THIOXANTHENES"}
+{"index":{"_id":"1156"}}
+{"agid":"900068","description":"THIURAM ANALOGUES"}
+{"index":{"_id":"1157"}}
+{"agid":"463","description":"THREONINE"}
+{"index":{"_id":"1158"}}
+{"agid":"794","description":"THROMBIN"}
+{"index":{"_id":"1159"}}
+{"agid":"900187","description":"THYME"}
+{"index":{"_id":"1160"}}
+{"agid":"900","description":"THYMOL"}
+{"index":{"_id":"1161"}}
+{"agid":"900417","description":"THYROID"}
+{"index":{"_id":"1162"}}
+{"agid":"900066","description":"TICLOPIDINE"}
+{"index":{"_id":"1163"}}
+{"agid":"185","description":"TIGECYCLINE"}
+{"index":{"_id":"1164"}}
+{"agid":"691","description":"TIN (STANNOUS SALTS)"}
+{"index":{"_id":"1165"}}
+{"agid":"963","description":"TINOSPORA CORDIFOLIA"}
+{"index":{"_id":"1166"}}
+{"agid":"18","description":"TITANIUM ANALOGUES"}
+{"index":{"_id":"1167"}}
+{"agid":"223","description":"TOLONIUM CHLORIDE(TOLUIDINE BLUE-O)"}
+{"index":{"_id":"1168"}}
+{"agid":"1115","description":"TOLTERODINE ANALOGUES"}
+{"index":{"_id":"1169"}}
+{"agid":"136","description":"TOMATO (SOLANUM LYCOPERSICUM)"}
+{"index":{"_id":"1170"}}
+{"agid":"555","description":"TORSEMIDE"}
+{"index":{"_id":"1171"}}
+{"agid":"11","description":"TOSITUMOMAB ANALOGUES"}
+{"index":{"_id":"1172"}}
+{"agid":"900201","description":"TRAGACANTH"}
+{"index":{"_id":"1173"}}
+{"agid":"1107","description":"TRASTUZUMAB ANALOGUES"}
+{"index":{"_id":"1174"}}
+{"agid":"1193","description":"TREE NUTS"}
+{"index":{"_id":"1175"}}
+{"agid":"688","description":"TREOSULFAN"}
+{"index":{"_id":"1176"}}
+{"agid":"261","description":"TRICYCLIC COMPOUNDS"}
+{"index":{"_id":"1177"}}
+{"agid":"660","description":"TRIDECYL STEARATE"}
+{"index":{"_id":"1178"}}
+{"agid":"900555","description":"TRIETHANOLAMINE ANALOGUES"}
+{"index":{"_id":"1179"}}
+{"agid":"900324","description":"TRIMETHADIONE/PARAMETHADIONE"}
+{"index":{"_id":"1180"}}
+{"agid":"838","description":"TRIMETHYLSILYL STEARATE"}
+{"index":{"_id":"1181"}}
+{"agid":"1068","description":"TRIPHALA"}
+{"index":{"_id":"1182"}}
+{"agid":"547","description":"TRIPHENYLMETHANE ANALOGUES"}
+{"index":{"_id":"1183"}}
+{"agid":"900038","description":"TRIPTANS-5-HT1 ANTIMIGRAINE AGENTS"}
+{"index":{"_id":"1184"}}
+{"agid":"942","description":"TROMETHAMINE"}
+{"index":{"_id":"1185"}}
+{"agid":"953","description":"TROPOLONE"}
+{"index":{"_id":"1186"}}
+{"agid":"198","description":"TRYPAN BLUE"}
+{"index":{"_id":"1187"}}
+{"agid":"728","description":"TRYPSIN"}
+{"index":{"_id":"1188"}}
+{"agid":"900370","description":"TRYPTOPHAN DERIVATIVES"}
+{"index":{"_id":"1189"}}
+{"agid":"254","description":"TURMERIC (CURCUMA LONGA)"}
+{"index":{"_id":"1190"}}
+{"agid":"776","description":"TURPENTINE"}
+{"index":{"_id":"1191"}}
+{"agid":"735","description":"TYPHOID VACCINES"}
+{"index":{"_id":"1192"}}
+{"agid":"905","description":"TYRAMINE"}
+{"index":{"_id":"1193"}}
+{"agid":"229","description":"TYROSINE (L-TYROSINE)"}
+{"index":{"_id":"1194"}}
+{"agid":"944","description":"UBIDECARENONE (COENZYME Q10)"}
+{"index":{"_id":"1195"}}
+{"agid":"795","description":"UNABLE TO ASSESS"}
+{"index":{"_id":"1196"}}
+{"agid":"290","description":"UNDECYLENIC ACID"}
+{"index":{"_id":"1197"}}
+{"agid":"900468","description":"UREA"}
+{"index":{"_id":"1198"}}
+{"agid":"900176","description":"VALERIAN"}
+{"index":{"_id":"1199"}}
+{"agid":"460","description":"VALINE"}
+{"index":{"_id":"1200"}}
+{"agid":"900168","description":"VALPROIC ACID ANALOGUES"}
+{"index":{"_id":"1201"}}
+{"agid":"900346","description":"VANADIUM DERIVATIVES"}
+{"index":{"_id":"1202"}}
+{"agid":"484","description":"VANCOMYCIN ANALOGUES"}
+{"index":{"_id":"1203"}}
+{"agid":"643","description":"VANILLIN"}
+{"index":{"_id":"1204"}}
+{"agid":"368","description":"VARICELLA VACCINES"}
+{"index":{"_id":"1205"}}
+{"agid":"900040","description":"VASOPRESSIN ANALOGUES"}
+{"index":{"_id":"1206"}}
+{"agid":"571","description":"VEGETABLE OIL"}
+{"index":{"_id":"1207"}}
+{"agid":"900108","description":"VENLAFAXINE ANALOGUES"}
+{"index":{"_id":"1208"}}
+{"agid":"1057","description":"VERNONIA CINEREA"}
+{"index":{"_id":"1209"}}
+{"agid":"1069","description":"VIDANGADI LAUHAM"}
+{"index":{"_id":"1210"}}
+{"agid":"900082","description":"VINCA ALKALOID"}
+{"index":{"_id":"1211"}}
+{"agid":"1194","description":"VINCAMINE ANALOGUES"}
+{"index":{"_id":"1212"}}
+{"agid":"1032","description":"VIOLA ODORATA"}
+{"index":{"_id":"1213"}}
+{"agid":"900053","description":"VITAMIN A ANALOGUES"}
+{"index":{"_id":"1214"}}
+{"agid":"965","description":"VITAMIN B"}
+{"index":{"_id":"1215"}}
+{"agid":"900140","description":"VITAMIN B1 PREPARATIONS - THIAMINE"}
+{"index":{"_id":"1216"}}
+{"agid":"900139","description":"VITAMIN B6 PREPARATIONS - PYRIDOXINE"}
+{"index":{"_id":"1217"}}
+{"agid":"900160","description":"VITAMIN D ANALOGUE"}
+{"index":{"_id":"1218"}}
+{"agid":"900575","description":"VITAMIN E ANALOGUES"}
+{"index":{"_id":"1219"}}
+{"agid":"900138","description":"VITAMIN K ANALOGUES"}
+{"index":{"_id":"1220"}}
+{"agid":"1038","description":"VITEX NEGUNDO"}
+{"index":{"_id":"1221"}}
+{"agid":"687","description":"VORICONAZOLE"}
+{"index":{"_id":"1222"}}
+{"agid":"105","description":"WATERCRESS (NASTURTIUM OFFICINALE)"}
+{"index":{"_id":"1223"}}
+{"agid":"1004","description":"WATERMELON"}
+{"index":{"_id":"1224"}}
+{"agid":"1176","description":"WEED POLLEN-MUGWORT, STANDARD"}
+{"index":{"_id":"1225"}}
+{"agid":"1162","description":"WEED POLLEN-SHORT RAGWEED"}
+{"index":{"_id":"1226"}}
+{"agid":"604","description":"WHITE CERESIN WAX (PURIFIED OZOCERITE)"}
+{"index":{"_id":"1227"}}
+{"agid":"315","description":"WHITE DYE"}
+{"index":{"_id":"1228"}}
+{"agid":"348","description":"WHITE POPLAR (POPULUS ALBA)"}
+{"index":{"_id":"1229"}}
+{"agid":"1105","description":"WHITE SANDALWOOD (SANTALUM ALBUM)"}
+{"index":{"_id":"1230"}}
+{"agid":"745","description":"WILD CHERRY (PRUNUS SEROTINA)"}
+{"index":{"_id":"1231"}}
+{"agid":"373","description":"WILD DAISY (BELLIS PERENNIS)"}
+{"index":{"_id":"1232"}}
+{"agid":"584","description":"WILD YAM (DIOSCOREA VILLOSA)"}
+{"index":{"_id":"1233"}}
+{"agid":"917","description":"WOOD BETONY (BETONICA OFFICINALIS)"}
+{"index":{"_id":"1234"}}
+{"agid":"900191","description":"WORMWOOD (ARTEMESIA ABSINTHIUM)"}
+{"index":{"_id":"1235"}}
+{"agid":"342","description":"XANTHAN GUM"}
+{"index":{"_id":"1236"}}
+{"agid":"140","description":"XANTHINES"}
+{"index":{"_id":"1237"}}
+{"agid":"907","description":"XYLANASE"}
+{"index":{"_id":"1238"}}
+{"agid":"235","description":"YARROW (ACHILLEA MILLEFOLIUM)"}
+{"index":{"_id":"1239"}}
+{"agid":"83","description":"YEAST"}
+{"index":{"_id":"1240"}}
+{"agid":"355","description":"YELLOW DOCK (RUMEX CRISPUS)"}
+{"index":{"_id":"1241"}}
+{"agid":"26","description":"YERBA MATE (ILEX)"}
+{"index":{"_id":"1242"}}
+{"agid":"900027","description":"YOHIMBINE"}
+{"index":{"_id":"1243"}}
+{"agid":"900405","description":"YUCCA"}
+{"index":{"_id":"1244"}}
+{"agid":"854","description":"ZEAXANTHIN"}
+{"index":{"_id":"1245"}}
+{"agid":"529","description":"ZINC"}
+{"index":{"_id":"1246"}}
+{"agid":"900469","description":"ZINC CHLORIDE"}
+{"index":{"_id":"1247"}}
+{"agid":"530","description":"ZINC CITRATE"}
+{"index":{"_id":"1248"}}
+{"agid":"900470","description":"ZINC GLUCONATE"}
+{"index":{"_id":"1249"}}
+{"agid":"475","description":"ZINC HVP CHELATE"}
+{"index":{"_id":"1250"}}
+{"agid":"448","description":"ZINC OXIDE"}
+{"index":{"_id":"1251"}}
+{"agid":"900471","description":"ZINC SULFATE"}
+{"index":{"_id":"1252"}}
+{"agid":"57","description":"ZOPICLONE ANALOGUES"}
