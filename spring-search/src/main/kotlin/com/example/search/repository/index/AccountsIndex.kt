@@ -37,7 +37,6 @@ class AccountsIndex(
 		val term = Term(field, queryStr)
 		val query = FuzzyQuery(term)
 //		val query = PrefixQuery(term)
-//		val query = QueryParser(field, analyzer).parse(queryStr)
 		val topDocs = searcher.search(query, numOfDocs)
 		val results = mutableListOf<Map<String, String>>()
 

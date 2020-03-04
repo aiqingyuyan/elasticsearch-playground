@@ -26,7 +26,6 @@ dependencies {
 	implementation("com.fasterxml.jackson.core:jackson-databind")
 	implementation("org.apache.commons:commons-lang3:3.9")
 	implementation("commons-codec:commons-codec:1.14")
-	implementation("info.debatty:java-string-similarity:1.2.1")
 	implementation("org.apache.lucene:lucene-core:8.4.1")
 	implementation("org.apache.lucene:lucene-queryparser:8.4.1")
 	testImplementation("org.springframework.boot:spring-boot-starter-test") {
